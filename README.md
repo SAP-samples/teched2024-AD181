@@ -1,16 +1,17 @@
-# Session ID - Session Title
+# AD181 | Develop applications and processes with SAP Build and Joule
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2024 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2024 session called AD181 | Develop applications and processes with SAP Build and Joule.  
 
 ## Overview
 
-This session introduces attendees to...
+Immerse yourself in creating comprehensive intelligent applications using SAP Build solutions in this hands-on session. Gain comprehensive knowledge of full-stack development, process automation, and business site creation with SAP Build. Learn how SAP Cloud Application Programming Model is leveraged in a highly productive development environment with Joule technology.
 
-## Requirements
+## Prerequisites
 
-The requirements to follow the exercises in this repository are...
+1. You have an SAP BTP Trial account [Get a Free Account on SAP BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html)
+2. You have setup SAP Build Code: [Setup SAP Build Code in SAP BTP](https://developers.sap.com/tutorials/build-code-setup.html)
 
 ## Exercises
 
