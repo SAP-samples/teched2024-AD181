@@ -1,44 +1,54 @@
-# Exercise 1 - Exercise 1 Description
+# SAP Build Code and Joule Copilot
 
-In this exercise, we will create...
+## Overview
 
-## Exercise 1.1 Sub Exercise 1 Description
+In this unit, we want to create a customer loyalty program application.
+Customer can get bonus points for their purchases of products and can
+redeem these points.
 
-After completing these steps you will have created...
+Generative AI powered Development using Joule in SAP Build Code.
 
-1. Click here.
-<br>![](/exercises/ex1/images/01_01_0010.png)
+1.  Data Model and Service Creation
 
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello World! | ). 
-```
+2.  Sample Data
 
+3.  Application Logic
 
+## Introduction to SAP Build Code
 
-## Exercise 1.2 Sub Exercise 2 Description
+SAP Build Code is a turn-key development environment that combines
+runtime and design time capabilities with built-in solutions for DevOps
+and Application Lifecycle Management.
 
-After completing these steps you will have...
+<img src="images/media/image1.jpeg" style="width:6.5in;height:3.32292in" />
 
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
+Benefits of SAP Build Code
 
-```
+- Achieve a clean core by developing side-by-side extensions with SAP
+  Build Code
 
-2.	Click here.
-<br>![](/exercises/ex1/images/01_02_0010.png)
+- Optimize developer efficiency with generative AI, productivity tools,
+  and application lifecycle management
 
+- Enable developers to build and extend powerful end-to-end business
+  applications with programming language of choice
 
-## Summary
+- Leverage interoperability between classic development and low-code
+  development tools
 
-You've now ...
+Key capabilities of SAP Build Code
 
-Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
+- Differentiate cloud solution with stable and future-proof foundation,
+  solution becomes future proof and works with different editions of
+  S/4HANA, and quality assurance options included
 
+- Enable developers to code faster and smarter, code generation based on
+  generative AI, Ease of Application Lifecycle Management
+
+- Application and extension development, Integrate with SAP and non-SAP
+  systems
+
+- Easy access for all types of developers with centralized Lobby, for
+  Fusion Development
+
+## [Next Lesson](../ex1.1/)
