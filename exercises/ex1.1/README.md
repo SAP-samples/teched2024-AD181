@@ -11,22 +11,22 @@ central entry point for all SAP Build products.**
 
 2.  **Select the Create button**
 
-<img src="images/media/image1.jpeg"
+<img src="imagesimage1.jpeg"
 style="width:6.5in;height:2.64375in" />
 
 3.  **Select Build an Application**
 
-<img src="images/media/image2.jpeg"
+<img src="imagesimage2.jpeg"
 style="width:6.5in;height:3.7625in" />
 
 4.  **Select SAP Build Code**
 
-<img src="images/media/image3.jpeg"
+<img src="imagesimage3.jpeg"
 style="width:6.5in;height:3.68264in" />
 
 5.  **Select Full-Stack Application**
 
-<img src="images/media/image4.jpeg"
+<img src="imagesimage4.jpeg"
 style="width:6.5in;height:3.66736in" />
 
 6.  **On the next screen, enter the following:**
@@ -37,7 +37,7 @@ style="width:6.5in;height:3.66736in" />
 | **Description** | **Customer Loyalty Program Model and Services AC117059U01** |
 | **Dev Space** | **AC117059U01** |
 
-<img src="images/media/image5.jpeg"
+<img src="imagesimage5.jpeg"
 style="width:6.5in;height:7.25347in" />
 
 7.  **Select the Create button.**
@@ -46,13 +46,13 @@ style="width:6.5in;height:7.25347in" />
 
 8.  **Select the Customer_Loyal_AC117059U01 project.**
 
-<img src="images/media/image6.jpeg"
+<img src="imagesimage6.jpeg"
 style="width:6.5in;height:0.79097in" />
 
 9.  **You might be asked to confirm the cookies settings by
     clicking OK (or Open Settings to update the settings)**
 
-<img src="images/media/image7.png"
+<img src="imagesimage7.png"
 style="width:6.5in;height:3.09444in" />
 
 10. **SAP Build Code will be opened, based on SAP Business Application
@@ -60,7 +60,7 @@ style="width:6.5in;height:3.09444in" />
 
 - **Please allow some time for SAP Build Code to open!**
 
-<img src="images/media/image8.jpeg"
+<img src="imagesimage8.jpeg"
 style="width:6.5in;height:3.08958in" />
 
 ## [Next lesson](../ex1.2/)
