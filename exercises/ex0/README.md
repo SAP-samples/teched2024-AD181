@@ -2,6 +2,8 @@
 
 In this hands-on tutorial you will work through a set of exercises that highlight the capabilities of SAP Build Code with Joule AI copilot. Also showcased are the integration capabilities between SAP Build Code, SAP S/4HANA Cloud and SAP’s Low-code/No-code development environment, SAP Build Apps.
 
+<img src="images/image1.png" style="width:6.5in;height:3.63125in" />
+
 The business scenario for this exercise is focused on a points-based
 customer loyalty programme with data related to Customers, Purchases and
 Redemptions. Within the Purchases area we will integrate our product
@@ -10,7 +12,7 @@ copilot you will create data entities and backend logic. You will then
 use SAP Build Apps to create a UI application to consume the data.
 
 
-<img src="images/media/image2.png" style="width:6.5in;height:3.65833in" />
+<img src="images/image2.png" style="width:6.5in;height:3.65833in" />
 
 ## Prerequisites
 
@@ -37,4 +39,4 @@ provided naming conventions. Otherwise, you will encounter issues.
 
 4.  Use SAP Build Apps Mobile Preview
 
-<img src="images/media/image3.png" style="width:6.5in;height:3.55486in" />
+<img src="images/image3.png" style="width:6.5in;height:3.55486in" />
