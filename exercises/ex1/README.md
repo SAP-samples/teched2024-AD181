@@ -20,7 +20,7 @@ SAP Build Code is a turn-key development environment that combines
 runtime and design time capabilities with built-in solutions for DevOps
 and Application Lifecycle Management.
 
-<img src="images/media/image1.jpeg" style="width:6.5in;height:3.32292in" />
+<img src="images/image1.jpeg" style="width:6.5in;height:3.32292in" />
 
 Benefits of SAP Build Code
 
