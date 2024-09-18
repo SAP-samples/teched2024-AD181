@@ -1,42 +1,51 @@
-# Exercise 2 - Exercise 2 Description
+# Prepare & Deploy CAP Application
 
-In this exercise, we will create...
+**Preparation**
 
-## Exercise 2.1 Sub Exercise 1 Description
+**Objectives**
 
-After completing these steps you will have created...
+**After completing this lesson, you will be able to:**
 
-1. Click here.
-<br>![](/exercises/ex2/images/02_01_0010.png)
+**Preparation**
 
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello ABAP World! | ). 
-```
+## Service
 
+**If you want to create a customized UI with SAP Build Apps on top of
+it, we need to adjust some settings in the service.**
 
+**To do this, we will use the *Graphical Modeler* to disable the “Draft
+Editing” mode for all three entity sets:**
 
-## Exercise 2.2 Sub Exercise 2 Description
+- **Customers**
 
-After completing these steps you will have...
+- **Purchases**
 
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc = 0.
-    response->set_status( i_code = 200
-                     i_reason = 'Everything is fine').
-    RETURN.
-  ENDIF.
+- **Redemptions**
 
-```
+1.  **Go to service.cds tab. Select the Redemptions entity and
+    the Redemptions details will appear on the right hand side.**
 
-2.	Click here.
-<br>![](/exercises/ex2/images/02_02_0010.png)
+<img src="images/image1.png"
+style="width:6.5in;height:4.02708in" />
 
-## Summary
+2.  **Select Settings =\> Disable Draft Editing.**
 
-You've now ...
+    - **If you do not see *Settings* may have to move the *Show
+      Details* content to the left**
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+<img src="images/image2.png"
+style="width:6.5in;height:5.93403in" />
+
+3.  **Select Customers and disable *Draft Editing***
+
+    - **You may have to move around to find Customers.**
+
+<img src="images/image3.png"
+style="width:6.5in;height:3.29375in" />
+
+4.  **Select Purchases and disable *Draft Editing***
+
+<img src="images/image4.png"
+style="width:6.5in;height:3.32708in" />
+
+## [Next lesson](../ex2.1/)
