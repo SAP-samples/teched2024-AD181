@@ -10,30 +10,41 @@ Immerse yourself in creating comprehensive intelligent applications using SAP Bu
 
 ## Prerequisites
 
-1. You have an SAP BTP Trial account [Get a Free Account on SAP BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html)
+In this hands-on tutorial you will work through a set of exercises that highlight the capabilities of **SAP Build Code** with **Joule AI copilot**. Also showcased are the integration capabilities between **SAP Build Code**, **SAP Build Apps**, **SAP Build Process Automation**, and **SAP Build Work Zone**.
+
+This tutorial puts all of the SAP Build tools together for an end-to-end solution. This requires setting up each of the SAP Build tools in a SAP BTP trial account.
+
+1. You have an SAP BTP Trial account [Get a Free Account on SAP BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html). You must create the trial account in the US East (VA) zone (US10).
 2. You have setup SAP Build Code: [Setup SAP Build Code in SAP BTP](https://developers.sap.com/tutorials/build-code-setup.html)
+3. You have setup SAP Build Work Zone: [Set Up SAP Build Work Zone, standard edition Using a Trial Account](https://developers.sap.com/tutorials/cp-portal-cloud-foundry-getting-started..html)
+4. You have setup SAP Build Process Automation: [Subscribe to SAP Build Process Automation](https://developers.sap.com/tutorials/spa-subscribe-booster..html)
+5. You have setup SAP Build Apps: [Set Up SAP Build Apps on SAP BTP Trial Account](https://developers.sap.com/tutorials/build-apps-trial..html)
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
-
-- [Getting Started](exercises/ex0/)
-- 
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
-
-  
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
+- [Start Here](exercises/ex0/)
+- [SAP Build Code and Joule Copilot](exercises/ex1/)
+    - [Overview](exercises/ex1.1/)
+    - [Create Project](exercises/ex1.2/)
+    - [Create Data Entities with Joule](exercises/ex1.3/)
+    - [Enhance your Data with Joule](exercises/ex1.4/)
+    - [Create Backend Logic with Joule](exercises/ex1.5/)
+    - [Add External Data Resource](exercises/ex1.6/)
+    - [UI Application](exercises/ex1.7/)
+    - [Preview](exercises/ex1.2)
+- [Prepare & Deploy CAP Application](exercises/ex2/)
+    - [Preparation](exercises/ex2.1/)
+    - [Deployment](exercises/ex2.2/)
+- [SAP Build Apps](exercises/ex3/)
+    - [Overview](exercises/ex3.1/)
+    - [Create Project from Template](exercises/ex3.2/)
+    - [Authentication and Data Integration](exercises/ex3.3/)
+    - [New Purchase Page - Logic for Data Variables](exercises/ex3.4/)
+    - [Redeem Points Page - Logic for Data Variables](exercises/ex3.5/)
+    - [Logic for UI Components](exercises/ex3.6/)
+    - [Preview and Test](exercises/ex3.7/)
+- [SAP Build Process Automation](exercises/ex4/)
+- [SAP Build Work Zone](exercises/ex5/)
 
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
