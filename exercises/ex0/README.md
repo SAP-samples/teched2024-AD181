@@ -40,3 +40,5 @@ provided naming conventions. Otherwise, you will encounter issues.
 4.  Use SAP Build Apps Mobile Preview
 
 <img src="images/image3.png" style="width:6.5in;height:3.55486in" />
+
+[SAP Build Code and Joule Copilot](../ex1/)
