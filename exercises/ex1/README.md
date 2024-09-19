@@ -9,7 +9,9 @@ redeem these points.
 We will take advantage of generative AI powered development using Joule in SAP Build Code for:
 
 - Data Model and Service Creation
+
 - Sample Data
+
 - Application Logic
 
 ## Introduction to SAP Build Code
