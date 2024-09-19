@@ -34,12 +34,14 @@ style="width:6.5in;height:2.50486in" />
 
 5.  Copy and paste the following Prompt into Joule and select Generate:
 
+```
 Enhance my sample data with meaningful data. All customer numbers will
 be 7 digits and one customer must use the customer number 1200547. No
 field may be empty. Total purchase value must be smaller than 10000.
 Total reward points and total redeemed reward points both must be
 unround and different and always sum to one-tenth of total purchase
 value for each customer.
+```
 
 <img src="images/image5.png"
 style="width:6.5in;height:4.34792in" />
@@ -78,10 +80,12 @@ style="width:6.5in;height:2.11111in" />
 
 7.  Copy the following text.
 
+```
 Enhance my sample data with meaningful data using electronic office
 products. Each ‘purchaseValue’ will be between 50 and 1000. Ensure that
 each ‘rewardPoints’ is always one-tenth of the ‘purchaseValue’. Ensure
 that the ‘customer’ field is populated.
+```
 
 8.  Paste the copied text into the Joule prompt, select Generate.
 
@@ -123,7 +127,9 @@ style="width:6.5in;height:3.26667in" />
 
 7.  Use the following Prompt in Joule:
 
+```
 Ensure that each redeemed amount is different and between 10 and 100.
+```
 
 8.  Select Generate. This may take a little time.
 
