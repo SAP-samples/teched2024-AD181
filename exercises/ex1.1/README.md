@@ -6,7 +6,7 @@
 central entry point for all SAP Build products.**
 
 1.  **Launch the SAP
-    Build [Lobby](../lobyaccess/) (if
+    Build [Lobby](../lobbyaccess/) (if
     you are not already in the Lobby)**
 
 2.  **Select the Create button**
