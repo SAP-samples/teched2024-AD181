@@ -41,8 +41,6 @@ This tutorial puts all of the SAP Build tools together for an end-to-end solutio
     - [Redeem Points Page - Logic for Data Variables](exercises/ex3.4/)
     - [Logic for UI Components](exercises/ex3.5/)
     - [Preview and Test](exercises/ex3.6/)
-- [SAP Build Process Automation](exercises/ex4/)
-- [SAP Build Work Zone](exercises/ex5/)
 
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
