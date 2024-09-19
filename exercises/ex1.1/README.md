@@ -33,9 +33,9 @@ style="width:6.5in;height:3.66736in" />
 
 | **Input Field** | **Input Value** |
 |----|----|
-| **Project Name** | **Customer_Loyal_AC117059U01** |
-| **Description** | **Customer Loyalty Program Model and Services AC117059U01** |
-| **Dev Space** | **AC117059U01** |
+| **Project Name** | **Customer_Loyalty** |
+| **Description** | **Customer Loyalty Program Model and Services** |
+| **Dev Space** | **Select the default** |
 
 <img src="images/image5.jpeg"
 style="width:6.5in;height:7.25347in" />
@@ -44,7 +44,7 @@ style="width:6.5in;height:7.25347in" />
 
     - **The creation of the project can take up to 1 minute.**
 
-8.  **Select the Customer_Loyal_AC117059U01 project.**
+8.  **Select the Customer_Loyalty project.**
 
 <img src="images/image6.jpeg"
 style="width:6.5in;height:0.79097in" />
