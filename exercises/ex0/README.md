@@ -19,7 +19,7 @@ your app to SAP Build Work Zone, standard edition.
 
 - Your BTP Trial Account running in US East-VA (US10)
 - You trial account configured with SAP Build Work Code, SAP Build Apps, SAP Build Process Automation, and SAP Build Work Zone, standard edition.
-- If you have not yet configured this environment, you will find the links at the start of this exercise, [here](../../).
+- If you have not yet configured this environment, you will find the links at the start of this exercise, [here](../../#prerequisites).
 
 Note: Make sure to follow the exercise documentation and use the
 provided naming conventions. Otherwise, you will encounter issues.
