@@ -1,6 +1,6 @@
 # Accessing your BTP trial account and the SAP Build Lobby
 
-All of the tools in this tutorial are access through the SAP Build Lobby. You will access the Lobby through your BTP trial subaccount.
+All of the tools in this tutorial are accessed through the SAP Build Lobby. You will access the Lobby through your BTP trial subaccount.
 
 ## Access your subaccount
 
