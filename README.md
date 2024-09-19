@@ -16,9 +16,9 @@ This tutorial puts all of the SAP Build tools together for an end-to-end solutio
 
 1. You have an SAP BTP Trial account [Get a Free Account on SAP BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html). You must create the trial account in the US East (VA) zone (US10).
 2. You have setup SAP Build Code: [Setup SAP Build Code in SAP BTP](https://developers.sap.com/tutorials/build-code-setup.html)
-3. You have setup SAP Build Work Zone: [Set Up SAP Build Work Zone, standard edition Using a Trial Account](https://developers.sap.com/tutorials/cp-portal-cloud-foundry-getting-started..html)
-4. You have setup SAP Build Process Automation: [Subscribe to SAP Build Process Automation](https://developers.sap.com/tutorials/spa-subscribe-booster..html)
-5. You have setup SAP Build Apps: [Set Up SAP Build Apps on SAP BTP Trial Account](https://developers.sap.com/tutorials/build-apps-trial..html)
+3. You have setup SAP Build Apps: [Set Up SAP Build Apps on SAP BTP Trial Account](https://developers.sap.com/tutorials/build-apps-trial..html)
+4. You have setup SAP Build Work Zone: [Set Up SAP Build Work Zone, standard edition Using a Trial Account](https://developers.sap.com/tutorials/cp-portal-cloud-foundry-getting-started..html)
+5. You have setup SAP Build Process Automation: [Subscribe to SAP Build Process Automation](https://developers.sap.com/tutorials/spa-subscribe-booster..html)
 
 ## Exercises
 
