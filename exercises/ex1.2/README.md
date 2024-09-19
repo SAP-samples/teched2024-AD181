@@ -28,7 +28,7 @@ style="width:6.5in;height:3.96389in" />
 3.  Generate the data model and services by copying and pasting the
     prompt into the box where it says ‘Describe what you need to do’.
 
-Design a customer loyalty program application. Define 3 data entities:
+'Design a customer loyalty program application. Define 3 data entities:
 Customers, Purchases and Redemptions. Each customer must have the
 following fields: name, email, 7-digit customer number, total purchase
 value, total reward points, ‘total redeemed reward points’. All fields
@@ -37,7 +37,7 @@ stored as string. Purchases should include the following fields:
 purchase value, reward points and selected product. All fields in
 Purchases must be integer except selected product. Redemptions must have
 1 field in integer: redeemed amount. Each purchase and redemption will
-be associated to a customer. Create 5 rows for each entity.
+be associated to a customer. Create 5 rows for each entity.'
 
 4.  Select Generate.
 
