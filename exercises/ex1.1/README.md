@@ -6,7 +6,7 @@
 central entry point for all SAP Build products.**
 
 1.  **Launch the SAP
-    Build [Lobby](https://sap-build-code-eu10.eu10.build.cloud.sap/lobby) (if
+    Build [Lobby](../lobyaccess/) (if
     you are not already in the Lobby)**
 
 2.  **Select the Create button**
