@@ -45,10 +45,12 @@ style="width:6.5in;height:4.19306in" />
 
 7.  Use the following Prompt in Joule to create a backend logic:
 
+```
 Reward points of each purchase will be the one-tenth of the purchase
 value. Each purchase value will be added to the total purchase value of
 the related customer. Each reward points will be added to the total
 reward points of the related customer.
+```
 
 8.  Select Generate.
 
@@ -100,9 +102,11 @@ style="width:6.5in;height:3.87083in" />
 
 7.  Use the following Prompt in Joule to create a backend logic:
 
+```
 Deduct the redemption amount from ‘totalRewardPoints’ of the related
 customer. Add the same redemption amount to the ‘totalRedeemedPoints’ of
 the related customer.
+```
 
 <img src="images/image10.png"
 style="width:5.47222in;height:2in" />
