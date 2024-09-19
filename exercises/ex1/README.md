@@ -3,16 +3,14 @@
 ## Overview
 
 In this unit, we want to create a customer loyalty program application.
-Customer can get bonus points for their purchases of products and can
+Customers can get bonus points for their purchases of products and can
 redeem these points.
 
-Generative AI powered Development using Joule in SAP Build Code.
+We will take advantage of generative AI powered development using Joule in SAP Build Code for:
 
-1.  Data Model and Service Creation
-
-2.  Sample Data
-
-3.  Application Logic
+- Data Model and Service Creation
+- Sample Data
+- Application Logic
 
 ## Introduction to SAP Build Code
 
