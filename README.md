@@ -19,6 +19,7 @@ This tutorial puts all of the SAP Build tools together for an end-to-end solutio
 3. You have setup SAP Build Apps: [Set Up SAP Build Apps on SAP BTP Trial Account](https://developers.sap.com/tutorials/build-apps-trial..html)
 4. You have setup SAP Build Process Automation: [Subscribe to SAP Build Process Automation](https://developers.sap.com/tutorials/spa-subscribe-booster..html)
 5. You have setup SAP Build Work Zone: [Set Up SAP Build Work Zone, standard edition Using a Trial Account](https://developers.sap.com/tutorials/cp-portal-cloud-foundry-getting-started..html)
+6. You have setup an SAP HANA Cloud database: [Start Using SAP HANA Cloud Trial in SAP BTP Cockpit](https://developers.sap.com/tutorials/hana-cloud-mission-trial-2.html)
 
 ## Exercises
 
