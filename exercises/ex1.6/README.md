@@ -18,7 +18,7 @@ style="width:6.5in;height:2.55278in" />
 
     - Description: Manage Purchases
 
-    - Data Source: customer_loyal_AC117059U01Srv
+    - Data Source: customer_loyaltySrv
 
 <img src="images/image2.jpeg"
 style="width:6.5in;height:4.39444in" />
