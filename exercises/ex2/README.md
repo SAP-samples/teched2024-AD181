@@ -1,14 +1,8 @@
 # Prepare & Deploy CAP Application
 
-**Preparation**
+## Preparation
 
-**Objectives**
-
-**After completing this lesson, you will be able to:**
-
-**Preparation**
-
-## Service
+### Service
 
 **If you want to create a customized UI with SAP Build Apps on top of
 it, we need to adjust some settings in the service.**
