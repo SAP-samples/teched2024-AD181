@@ -66,7 +66,7 @@ Customer:
 
 - Description: Manage Customers
 
-- Data Source: customer_loyal_AC117059U01Srv
+- Data Source: customer_loyaltySrv
 
 - UI Application type: Template-Based Responsive Application
 
@@ -82,7 +82,7 @@ Redemptions:
 
 - Description: Manage Redemptions
 
-- Data Source: customer_loyal_AC117059U01Srv
+- Data Source: customer_loyaltySrv
 
 - UI Application type: Template-Based Responsive Application
 
