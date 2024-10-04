@@ -60,7 +60,7 @@ alt="Subaccount" />
 
 - Click **Establish Trust**
 
-<img src="images/image3.jpeg" style="width:5in" />
+<img src="images/image19.jpg" style="width:5in" />
 
 You should see the identity provider you created when you install the
 Cloud Identity Service.
