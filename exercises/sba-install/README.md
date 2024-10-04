@@ -60,7 +60,7 @@ alt="Subaccount" />
 
 - Click **Establish Trust**
 
-<img src="images/image19.jpg" style="width:5in" />
+<img src="images/Image19.jpg" style="width:5in" />
 
 You should see the identity provider you created when you install the
 Cloud Identity Service.
@@ -111,7 +111,7 @@ alt="New IDP" />
 
 5. Keep the defaaults on the Configure Subaccount screen, and click **Next**.
 
-<img src="images/image8.jpg" style="width:6.5in" />
+<img src="images/Image8.jpg" style="width:6.5in" />
 
 6. Keep the defaults on the Add Users screen, and click **Next**. Your user ID will automatically be added.
 
