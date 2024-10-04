@@ -52,4 +52,9 @@ You can ensure that you are logged in with the custom identity provider and have
 
 <img src="images/image5.jpg" style="width:6.5in" />
 
-5. If you are't logged in with the custom identity provider, you may log out and log back in. When you log in, select your custom identity provider. Similarly, if you are asked to log into the Lobby, or any of the SAP Build tools launched from the lobby, be su
+5. If you are't logged in with the custom identity provider, you may log out and log back in. When you log in, select your custom identity provider. Similarly, if you are asked to log into the Lobby, or any of the SAP Build tools launched from the lobby, be sure to select the custom identity provider.
+
+<img src="images/image6.png" style="width:4in" />
+
+You can press the browser back button to return to your current tutorial step.
+

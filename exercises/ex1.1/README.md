@@ -49,13 +49,17 @@ style="width:6.5in;height:7.25347in" />
 <img src="images/image6.jpg"
 style="width:6.5in;height:0.79097in" />
 
-9.  **You might be asked to confirm the cookies settings by
+9.  **You may be asked to accept a privacy statement.
+
+<img src="images/image9.jpg" style="width:6.5in" />
+
+10.  **You might be asked to confirm the cookies settings by
     clicking OK (or Open Settings to update the settings)**
 
 <img src="images/image7.png"
 style="width:6.5in;height:3.09444in" />
 
-10. **SAP Build Code will be opened, based on SAP Business Application
+11. **SAP Build Code will be opened, based on SAP Business Application
     Studio - in the background.**
 
 - **Please allow some time for SAP Build Code to open!**
@@ -63,4 +67,4 @@ style="width:6.5in;height:3.09444in" />
 <img src="images/image8.jpeg"
 style="width:6.5in;height:3.08958in" />
 
-## [Next lesson](../ex1.2/)
+## [Next Lesson ⎘](../ex1.2/)
