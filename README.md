@@ -19,7 +19,6 @@ This tutorial puts all of the SAP Build tools together for an end-to-end solutio
 > **You must create your trial account in the US East (VA) - AWS zone (US10).** <br /> &nbsp; <br /> &nbsp;
 > <img src="trial-useast.png" style="width:3in"/>
 2. You have setup SAP Build Code: [Setup SAP Build Code in SAP BTP](https://developers.sap.com/tutorials/build-code-setup.html)
-3. You have setup SAP Build Apps: [Set Up SAP Build Apps on SAP BTP Trial Account](https://developers.sap.com/tutorials/build-apps-trial..html)
 
 ## Exercises
 
