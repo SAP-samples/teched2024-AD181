@@ -30,6 +30,16 @@ All of the tools in this tutorial are accessed through the SAP Build Lobby. You 
 
 <img src="images/image3.jpg" style="width:6.5in" />
 
+3. Log in with the custom identity provider (if not already logged in)
+
+- If you are presented with a screen to choose the identity provider, select the custom identity provider.
+
+<img src="images/image6.png" style="width:4in" />
+
+- Log in with the user name and password you used to setup the custom identity provider.
+
+<img src="images/image7.jpg" style="width:5in" />
+
 ## Verify your identity (optional)
 
 You can ensure that you are logged in with the custom identity provider and have the proper role assignments.
@@ -38,14 +48,12 @@ You can ensure that you are logged in with the custom identity provider and have
 
 <img src="images/image4.png" style="width:6.5in" />
 
-4. Take note of the Origin - this should identify the custom identity provider. 
+4. The **Origin** should identify the **Custom IDP (sap.custom)**. The **Role Collections** should list **Build Code Developer**, **BuildApps_Developer**, **Build Code Administrator**, and **BuildApps_Administrator**.
 
-<img src="images/image5.png" style="width:6.5in" />
+<img src="images/image5.jpg" style="width:6.5in" />
 
 5. If you are't logged in with the custom identity provider, you may log out and log back in. When you log in, select your custom identity provider. Similarly, if you are asked to log into the Lobby, or any of the SAP Build tools launched from the lobby, be sure to select the custom identity provider.
 
 <img src="images/image6.png" style="width:4in" />
 
-6. On your profile settings (Step 4 above) you may also check that you have the following assigned role collections: **Build Code Developer**, **Process Automation Developer**, **Process Automation Participant**, **ProcessAutomationAdmin**, **BuildApps_Developer**, **Launchpad_Admin**, **Build Code Administrator**, and **BuildApps_Administrator**
-
-You can press the back button to return to your current tutorial step.
+You can press the browser back button to return to your current tutorial step.
