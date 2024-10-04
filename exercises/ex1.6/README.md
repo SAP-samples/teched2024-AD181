@@ -152,4 +152,4 @@ Set the following:
 <img src="images/image12.jpeg"
 style="width:6.5in;height:3.91319in" />
 
-## [Next lesson](../ex1.7/)
+## [Next Lesson ⎘](../ex1.7/)
