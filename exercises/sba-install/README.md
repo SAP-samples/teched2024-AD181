@@ -143,7 +143,7 @@ So that you can access both SAP Build Code and SAP Build Apps using the identity
 
 - Click on **Assign Role Collections**
 
-<img src="images/image13.jpg" style="width:8in" />
+<img src="images/image13.jpg" />
 
 2. In the **Assign Roles** dialog:
 
