@@ -46,7 +46,7 @@ You can ensure that you are logged in with the custom identity provider and have
 
 1. From the Lobby, select your profile icon on the upper right corner of the screen
 
-<img src="images/image4.png" style="width:6.5in" />
+<img src="images/image4.jpg" />
 
 4. The **Origin** should identify the **Custom IDP (sap.custom)**. The **Role Collections** should list **Build Code Developer**, **BuildApps_Developer**, **Build Code Administrator**, and **BuildApps_Administrator**.
 
