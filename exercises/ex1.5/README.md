@@ -7,7 +7,9 @@ product related data. To simplify the setup, we will be using a sandbox S/4 HANA
 
 We'll connect to this API through a BTP destination, following the steps below:
 
-1. Download the destination definition to your local drive. This is a text file that contains the attributes to create the destination. [S4HANA_Joule_Product Destination](files/S4HANA_Joule_Product).
+1. Download the destination definition to your local drive. This is a text file that contains the attributes to create the destination. [S4HANA_Joule_Product Destination](files/S4HANA_Joule_Product). After clicking the link, select the **Download raw file** button.
+
+<img src="images/image7.jpg" style="width:6.5in;" />
 
 2. Access BTP Destinations in the subaccount. Keep your Build Code tab open, you'll return here.
 
