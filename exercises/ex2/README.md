@@ -42,4 +42,4 @@ style="width:6.5in;height:3.29375in" />
 <img src="images/image4.png"
 style="width:6.5in;height:3.32708in" />
 
-## [Next lesson](../ex2.1/)
+## [Next Lesson ⎘](../ex2.1/)
