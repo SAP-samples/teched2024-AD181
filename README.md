@@ -10,16 +10,14 @@ Immerse yourself in creating comprehensive intelligent applications using SAP Bu
 
 ## Prerequisites
 
-In this hands-on tutorial you will work through a set of exercises that highlight the capabilities of **SAP Build Code** with **Joule AI copilot**. Also showcased are the integration capabilities between **SAP Build Code**, **SAP Build Apps**, **SAP Build Process Automation**, and **SAP Build Work Zone**.
+In this hands-on tutorial you will work through a set of exercises that highlight the capabilities of **SAP Build Code** with **Joule AI copilot**. Also showcased are the integration capabilities between **SAP Build Code**, **SAP Build Apps**, and **SAP Build Work Zone, standard edition**.
 
 This tutorial puts all of the SAP Build tools together for an end-to-end solution. This requires setting up each of the SAP Build tools in a SAP BTP trial account.
 
-1. You have an SAP BTP Trial account [Get a Free Account on SAP BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html). You must create the trial account in the US East (VA) zone (US10).
+1. You have an SAP BTP Trial account [Get a Free Account on SAP BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html). 
+> [!IMPORTANT]
+> **Note: You must create the trial account in the US East (VA) zone (US10).**
 2. You have setup SAP Build Code: [Setup SAP Build Code in SAP BTP](https://developers.sap.com/tutorials/build-code-setup.html)
-3. You have setup SAP Build Apps: [Set Up SAP Build Apps on SAP BTP Trial Account](https://developers.sap.com/tutorials/build-apps-trial..html)
-4. You have setup SAP Build Process Automation: [Subscribe to SAP Build Process Automation](https://developers.sap.com/tutorials/spa-subscribe-booster..html)
-5. You have setup SAP Build Work Zone: [Set Up SAP Build Work Zone, standard edition Using a Trial Account](https://developers.sap.com/tutorials/cp-portal-cloud-foundry-getting-started..html)
-6. You have setup an SAP HANA Cloud database: [Start Using SAP HANA Cloud Trial in SAP BTP Cockpit](https://developers.sap.com/tutorials/hana-cloud-mission-trial-2.html)
 
 ## Exercises
 
