@@ -2,12 +2,6 @@
 
 ## Deployment
 
-Objectives
-
-After completing this lesson, you will be able to:
-
-Deployment
-
 The final step in SAP Build Code is to deploy the application to
 CloudFoundry. This process also involves the automatic creation of
 destinations, enabling ODATA services to be utilised by other tools such
@@ -118,4 +112,4 @@ Congratulations! You have used the generative AI capabilities of Joule
 in SAP Build Code, to create a CAP service for a customer loyalty
 program application.
 
-## [Next lesson](../ex3/)
+## [Next Lesson ⎘](../ex3/)
