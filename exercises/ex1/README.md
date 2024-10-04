@@ -51,4 +51,4 @@ Key capabilities of SAP Build Code
 - Easy access for all types of developers with centralized Lobby, for
   Fusion Development
 
-## [Next Lesson ⎘](../ex1.1/)
+## [Next Lesson **⎘**](../ex1.1/)
