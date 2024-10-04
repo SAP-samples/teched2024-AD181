@@ -123,11 +123,11 @@ alt="New IDP" />
 
 8. It will take a few minutes for the provisioning process to complete.
 
-<img src="images/image11.jpg" style="width:3in" />
+<img src="images/image11.jpg" style="width:5in" />
 
 9. Once completed, click **Navigate to Subaccount**
 
-<img src="images/image12.jpg" style="width:4in" />
+<img src="images/image12.jpg" style="width:6in" />
 
 ## Add Build Code Role Collections
 
