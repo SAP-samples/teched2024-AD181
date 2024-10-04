@@ -43,9 +43,7 @@ There is nothing to be done on this screen.
 
 ## Establish trust
 
-1.  Navigate back to your subaccount.
-
-You can navigate back by doing the following:
+1. Navigate back to your subaccount. You can navigate back by doing the following:
 
 - Click the global account in the breadcrumb.
 
@@ -56,10 +54,13 @@ You can navigate back by doing the following:
 <img src="images/image2.jpeg" style="width:6.5in;height:4.40556in"
 alt="Subaccount" />
 
-2.  In the cockpit of your subaccount, go to **Security \> Trust
-    Configuration**.
+2. Establish a security trust relationship with the new identity provider:
 
-Click **Establish Trust**.
+- In the cockpit of your subaccount, go to **Security > Trust Configuration**.
+
+- Click **Establish Trust**
+
+<img src="images/image3.jpeg" style="width:5in" />
 
 You should see the identity provider you created when you install the
 Cloud Identity Service.
@@ -76,7 +77,7 @@ click **Next**.
 
 Click **Finish**.
 
-You should now have a custom identity provider in the trust
+4. You should now have a custom identity provider in the trust
 configuration.
 
 <img src="images/image4.jpeg" style="width:6.5in;height:2.41111in"
