@@ -26,39 +26,10 @@ style="width:6.5in;height:2.44722in" />
 <img src="images/image3.png"
 style="width:6.5in;height:6.4375in" />
 
-4.  Please note that this is a shared landscape so we need to minimise
-    the size of your application. Before deploying the application to
-    Cloud Foundry, we need to set the memory footprint of the
-    application.
-
-    - Select the EXPLORER icon and open the mta.yaml file.
-
-<img src="images/image4.png"
-style="width:6.5in;height:3.72569in" />
-
-- Search the memory parameter of your application and change the value
-  to 64MB.
-
-<img src="images/image5.png"
-style="width:6.5in;height:3.38889in" />
-
-- Right select the mta.yaml file and select Build MTA Project
-
-<img src="images/image6.png"
-style="width:6.5in;height:5.59306in" />
-
-- When the job is complete, the following message is printed to
-  the Terminal.
-
-<img src="images/image7.png"
-style="width:6.5in;height:2.08958in" />
-
-5.  Return to the Cloud Foundry Sign In and Targets page.
-
-    - Enter the correct
+- Enter the correct
       endpoint: https://api.cf.eu10-004.hana.ondemand.com
 
-    - Select Open a new browser page to generate your SSO passcode
+- Select Open a new browser page to generate your SSO passcode
 
 <img src="images/image8.png" style="width:6.5in;height:6.475in" />
 

@@ -1,8 +1,13 @@
 # Prepare & Deploy CAP Application
 
-## Preparation
+## Prerequisites
+
+Your customer loyalty application has been using a test SQLite database during testing. To deploy the application, you will need to set up a SAP HANA Cloud database instance in your trial Cloud Foundry Environment. Refer to the steps here:  [Setup SAP HANA Cloud Trial](../hana-install/)
 
 ### Service
+
+**Return to your Customer Loyalty project in SAP Build Code 
+(you may need to refresh the browser).**
 
 **If you want to create a customized UI with SAP Build Apps on top of
 it, we need to adjust some settings in the service.**
