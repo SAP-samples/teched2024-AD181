@@ -153,6 +153,8 @@ So that you can access both SAP Build Code and SAP Build Apps using the identity
 
 - Click **Assign Role Collection**
 
+<img src="images/image14.jpg" />
+
 You have now installed SAP Build Apps with a custom identity provider, and assigned the Build Code roles to the new identity. You may now continue with the main exercise.
 
 ## [Next Lesson ⎘](../ex0/)
