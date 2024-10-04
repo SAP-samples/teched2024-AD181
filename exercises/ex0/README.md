@@ -15,14 +15,7 @@ your app to SAP Build Work Zone, standard edition.
 
 <img src="images/image2.png" style="width:6.5in;height:3.65833in" />
 
-## Prerequisites
-
-- Your BTP Trial Account running in US East-VA (US10)
-- You trial account configured with SAP Build Work Code, SAP Build Apps, SAP Build Process Automation, and SAP Build Work Zone, standard edition.
-- If you have not yet configured this environment, you will find the links at the start of this exercise, [here](../../#prerequisites).
-
-Note: Make sure to follow the exercise documentation and use the
-provided naming conventions. Otherwise, you will encounter issues.
+<!-- TODO add work zone image -->
 
 ## Goal
 
