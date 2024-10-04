@@ -39,4 +39,4 @@ your app to SAP Build Work Zone, standard edition.
 
 <!-- TODO add work zone to image -->
 
-## [Next Lesson >>](../ex1/)
+## [Next Lesson ⎘](../ex1/)
