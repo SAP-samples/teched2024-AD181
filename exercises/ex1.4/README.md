@@ -132,4 +132,4 @@ style="width:6.5in;height:3.78264in" />
 <img src="images/image13.png"
 style="width:6.5in;height:2.86597in" />
 
-## [Next lesson](../ex1.5/)
+## [Next Lesson ⎘](../ex1.5/)

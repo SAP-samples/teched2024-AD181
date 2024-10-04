@@ -63,4 +63,4 @@ style="width:6.5in;height:3.49028in" />
 <img src="images/image6.png"
 style="width:6.5in;height:3.06042in" />
 
-## [Next Lesson ⎘](../ex1.3/)
+## [Next Lesson ⎘](../ex1
