@@ -9,8 +9,7 @@ customer loyalty programme with data related to Customers, Purchases and
 Redemptions. Within the Purchases area we will integrate our product
 data from SAP S/4HANA Cloud. Using SAP Build Code and the Joule AI
 copilot you will create data entities and backend logic. You will then
-use SAP Build Apps to create a UI application to consume the data, and an
-approval workflow with SAP Build Process Automation. Finally, you will deploy
+use SAP Build Apps to create a UI application to consume the data. Finally, you will deploy
 your app to SAP Build Work Zone, standard edition.
 
 <img src="images/image2.png" style="width:6.5in;height:3.65833in" />
