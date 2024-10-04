@@ -1,28 +1,28 @@
-# Accessing your BTP trial account and the SAP Build Lobby
+# Accessing your BTP trial account, subaccount, and the SAP Build Lobby
 
 All of the tools in this tutorial are accessed through the SAP Build Lobby. You will access the Lobby through your BTP trial subaccount.
 
 ## Access your subaccount
 
-### Important
+> [!IMPORTANT]
+>
+> In this tutorial, you have two identities configured: 
+>
+> - The identity used to register at SAP.com and create your trial subaccount (the default identity provider). You will use this identity to log into the SAP BTP Cockpit.
+> 
+> - The identity created for SAP Build Apps (the custom identity provider). You will use this identity to log into the SAP Build Lobby.
+> 
+> 1. To access your BTP trial subaccount, navagate to the [SAP BTP Trial Home](https://cockpit.hanatrial.ondemand.com/trial/#/home/trial)
+> 
+> 2. If not logged in, log in with the email and password you used when you registered at SAP.com (default identity)
+> 
+> 3. To access your trial account **Go To Your Trial Account**
 
-In this tutorial, you have two identities configured: 
+<img src="images/image1.jpg" style="width:6.5in" />
 
-- The identity used to register at SAP.com and create your trial subaccount (the default identity provider). You will use this identity to log into the SAP BTP Cockpit.
+4. To access your trial subaccount click the **trial** sub-account tile
 
-- The identity created for SAP Build Apps (the custom identity provider). You will use this identity to log into the SAP Build Lobby.
-
-1. To access your subaccount, navagate to the [SAP BTP Trial Home](https://cockpit.hanatrial.ondemand.com/trial/#/home/trial)
-
-2. If not logged in, log in with the email and password you used when you registered at SAP.com (default identity)
-
-3. Select **Go To Your Trial Account**
-
-<img src="images/image1.png" style="width:6.5in" />
-
-4. Select the tile for your trial account
-
-<img src="images/image2.png" style="width:6.5in" />
+<img src="images/image2.jpg" style="width:6.5in" />
 
 ## Access the SAP Build Lobby
 
