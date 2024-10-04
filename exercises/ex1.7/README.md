@@ -31,4 +31,6 @@ style="width:6.5in;height:3.03056in" />
 Congratulations! You have successfully built and previewed a CAP
 application using SAP Build Code powered by Joule copilot!
 
-## [Next lesson](../ex2/)
+## [Next Lesson ⎘](../ex2/)
+
+<!-- TODO you've done through 1.7 but the product data isn't loading -->
