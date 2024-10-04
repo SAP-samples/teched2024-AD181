@@ -46,7 +46,7 @@ style="width:6.5in;height:7.25347in" />
 
 8.  **Select the Customer_Loyalty project.**
 
-<img src="images/image6.jpeg"
+<img src="images/image6.jpg"
 style="width:6.5in;height:0.79097in" />
 
 9.  **You might be asked to confirm the cookies settings by
