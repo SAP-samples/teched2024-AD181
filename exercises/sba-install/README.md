@@ -141,18 +141,4 @@ So that you can access both SAP Build Code and SAP Build Apps using the identity
 
 - Scroll down to **Roll Collections** and click on the button with three dots **...**
 
-- Click on **Assign Role Collections**
-
-<img src="images/image13.jpg" style="width:8in" />
-
-2. In the **Assign Roles** dialog:
-
-- Search for **Build**
-
-- Select both **Build Code Administrator** and **Build Code Developer**
-
-- Click **Assign Role Collection**
-
-You have now installed SAP Build Apps with a custom identity provider, and assigned the Build Code roles to the new identity. You may now continue with the main exercise.
-
-## [Next Lesson ⎘](../ex0/)
+- Click on *
