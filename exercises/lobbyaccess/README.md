@@ -44,7 +44,7 @@ All of the tools in this tutorial are accessed through the SAP Build Lobby. You 
 
 You can ensure that you are logged in with the custom identity provider and have the proper role assignments.
 
-1. From the Lobby, select your profile icon on the upper right corner of the screen
+1. From the Lobby, select your profile icon on the upper right corner of the screen, and select **Settings**.
 
 <img src="images/image4.jpg" />
 
@@ -52,8 +52,4 @@ You can ensure that you are logged in with the custom identity provider and have
 
 <img src="images/image5.jpg" style="width:6.5in" />
 
-5. If you are't logged in with the custom identity provider, you may log out and log back in. When you log in, select your custom identity provider. Similarly, if you are asked to log into the Lobby, or any of the SAP Build tools launched from the lobby, be sure to select the custom identity provider.
-
-<img src="images/image6.png" style="width:4in" />
-
-You can press the browser back button to return to your current tutorial step.
+5. If you are't logged in with the custom identity provider, you may log out and log back in. When you log in, select your custom identity provider. Similarly, if you are asked to log into the Lobby, or any of the SAP Build tools launched from the lobby, be su
