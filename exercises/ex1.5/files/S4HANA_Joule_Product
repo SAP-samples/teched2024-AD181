@@ -1,0 +1,13 @@
+#
+#Mon Sep 23 03:33:36 UTC 2024
+Description=S4/HANA Product Master Sandbox API
+Type=HTTP
+HTML5.DynamicDestination=true
+product.name=S/4 Product
+WebIDEAdditionalData=full_url
+WebIDEEnabled=true
+WebIDEUsage=odata_gen
+URL.headers.apiKey=GGxAStBf39qA8MU4gDuhxWqVGILGjo80
+Authentication=NoAuthentication
+URL=https\://sandbox.api.sap.com/s4hanacloud/sap/opu/odata/sap/API_PRODUCT_SRV
+ProxyType=Internet
