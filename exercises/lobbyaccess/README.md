@@ -2,13 +2,13 @@
 
 All of the tools in this tutorial are accessed through the SAP Build Lobby. You will access the Lobby through your BTP trial subaccount.
 
-## Access your subaccount
-
 > [!IMPORTANT]
 > In this tutorial, you have two identities configured: 
 > - The identity used to register at SAP.com and create your trial subaccount (the default identity provider). You will use this identity to log into the SAP BTP Cockpit. 
 > - The identity created for SAP Build Apps (the custom identity provider). You will use this identity to log into the SAP Build Lobby.
 > 
+
+## Access your subaccount
 
 1. To access your BTP trial subaccount, navagate to the [SAP BTP Trial Home](https://cockpit.hanatrial.ondemand.com/trial/#/home/trial)
  
