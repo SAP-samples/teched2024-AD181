@@ -14,7 +14,7 @@ In this hands-on tutorial you will work through a set of exercises that highligh
 
 This tutorial puts all of the SAP Build tools together for an end-to-end solution. This requires setting up each of the SAP Build tools in a SAP BTP trial account.
 
-1. You have an SAP BTP Trial account [Get a Free Account on SAP BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html). 
+1. You have an SAP BTP Trial account [Get a Free Account on SAP BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html). Note that you will need your user name and password later in this tutorial.
 > [!IMPORTANT]
 > **You must create your trial account in the US East (VA) - AWS zone (US10).** <br /> &nbsp; <br /> &nbsp;
 > <img src="trial-useast.png" style="width:3in"/>

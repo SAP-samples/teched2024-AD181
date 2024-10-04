@@ -1,6 +1,6 @@
 # Tutorial Overview
 
-In this hands-on tutorial you will work through a set of exercises that highlight the capabilities of SAP Build Code with Joule AI copilot. Also showcased are the integration capabilities between SAP Build Code, SAP S/4HANA Cloud and SAP’s Low-code/No-code development environment, SAP Build Apps. You will also implement an approval workflow with SAP Build Process Automation, and deploy your app into SAP Build Work Zone, standard edition.
+In this hands-on tutorial you will work through a set of exercises that highlight the capabilities of SAP Build Code with Joule AI copilot. Also showcased are the integration capabilities between SAP Build Code, SAP S/4HANA Cloud and SAP’s Low-code/No-code development environment, SAP Build Apps. You will also (optionally) deploy your app into SAP Build Work Zone, standard edition with a SAP HANA Cloud database instance.
 
 <img src="images/image1.png" style="width:6.5in;height:3.63125in" />
 
@@ -33,10 +33,10 @@ your app to SAP Build Work Zone, standard edition.
 
 4. Use SAP Build Apps Mobile Preview
 
-5. Create an approval workflow in SAP Build Process Automation
-
-6. Deploy your solution to SAP Build Work Zone, standard edition.
+6. (OPtional) Deploy your solution to SAP Build Work Zone, standard edition.
 
 <img src="images/image3.png" style="width:6.5in;height:3.55486in" />
 
-## [Next Lesson](../ex1/)
+<!-- TODO add work zone to image -->
+
+## [Next Lesson >>](../ex1/)
