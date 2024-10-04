@@ -49,7 +49,7 @@ style="width:6.5in;height:7.25347in" />
 <img src="images/image6.jpg"
 style="width:6.5in;height:0.79097in" />
 
-9.  **You may be asked to accept a privacy statement.**
+9.  **You may be asked to accept a privacy statement by clicking OK.**
 
 <img src="images/image9.jpg" style="width:6.5in" />
 
