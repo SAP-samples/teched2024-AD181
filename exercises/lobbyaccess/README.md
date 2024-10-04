@@ -14,7 +14,7 @@ All of the tools in this tutorial are accessed through the SAP Build Lobby. You 
  
 2. If not logged in, log in with the email and password you used when you registered at SAP.com (default identity)
  
-3. To access your trial account **Go To Your Trial Account**
+3. To access your trial account, click **Go To Your Trial Account**
 
 <img src="images/image1.jpg" style="width:6.5in" />
 
@@ -28,7 +28,7 @@ All of the tools in this tutorial are accessed through the SAP Build Lobby. You 
 
 2. Select SAP Build Code to launch the SAP Build Lobby
 
-<img src="images/image3.png" style="width:6.5in" />
+<img src="images/image3.jpg" style="width:6.5in" />
 
 ## Verify your identity (optional)
 
