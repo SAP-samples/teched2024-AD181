@@ -2,26 +2,38 @@
 
 ## Install SAP Cloud Identity Service
 
-SAP Build Apps requires that users be part of a custom identity
-provider. Therefore, you need to install the Cloud Identity Service.
+1. SAP Build Apps requires that users be part of a custom identity provider. Therefore, you need to install the Cloud Identity Service.
 
-1.  In the cockpit of your subaccount, go to **Service Marketplace**.
+- In the cockpit of your subaccount, go to **Service Marketplace**.
 
-Search for **Cloud Identity Service**.
+- Search for **Cloud Identity Service**.
 
-2.  Click **Cloud Identity Service** and click **Create**.
+- Click the **Cloud Identity Service** tile.
 
-Select the default service plan, and click **Create**.
+<img src="images/image16.jpg" style="width:6.5in" />
 
-The service will be created in a few seconds.
+2. To create an instance of the Cloud Identity Service, click **Create**.
 
-You will get an email to activate your account on this new identity
-provide.
+<img src="images/image17.jpg" style="width:6.5in" />
+
+3. Create a subscription to the default service plan:
+
+- Select the dropdown to select the plan
+
+- Select the **default** subscription.
+
+- Click **Create**
+
+- The service will be created in a few seconds.
+
+<img src="images/image18.jpg" style="width:6.5in" />
+
+4. You will get an email to activate your account on this new identity provider.
 
 <img src="images/image1.jpeg" style="width:6.5in;height:3.42847in"
 alt="Email" />
 
-3.  Click the button to activate your account, and follow the
+4.  Click the button to activate your account, and follow the
     instructions for creating a password for this new custom identity
     provider.
 
