@@ -17,7 +17,7 @@ We'll connect to this API through a BTP destination, following the steps below:
 
 <img src="images/image5.jpg" style="width:6.5in;" />
 
-- Enter the destination name **S/4HANA_Joule_Product** and click **Save** to save the new destination.
+- Enter the destination name **S4HANA_Joule_Product** and click **Save** to save the new destination.
 
 <img src="images/image6.jpg" style="width:6.5in;" />
 
