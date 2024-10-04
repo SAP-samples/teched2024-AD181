@@ -11,10 +11,9 @@ you’ve just built.
 <img src="images/image1.png"
 style="width:6.5in;height:3.39444in" />
 
-2.  Select Run customer_loyal_ac117059u01
+2.  Select Run customer_loyalty
 
-<img src="images/image2.png"
-style="width:3.63889in;height:1.29167in" />
+<img src="images/image2.jpg" />
 
 3.  The application’s preview is displayed.
 
