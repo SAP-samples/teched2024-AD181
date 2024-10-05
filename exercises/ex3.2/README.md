@@ -44,11 +44,11 @@ style="width:6.5in;height:2.35417in" />
 
 <img src="images/image9.jpg" />
 
-7.  Select Install Integration
+8.  Select Install Integration
 
 <img src="images/image7.png" style="width:6.5in;height:4.11042in" />
 
-8.  Select Enable Data Entity for all four (4) Data entities listed on
+9.  Select Enable Data Entity for all four (4) Data entities listed on
     the left:
 
     - Customers
@@ -59,7 +59,7 @@ style="width:6.5in;height:2.35417in" />
 
     - A_ProductBasicText
 
-9.  Select Save
+10.  Select Save
 
 <img src="images/image8.png" style="width:6.5in;height:2.26528in" />
 
