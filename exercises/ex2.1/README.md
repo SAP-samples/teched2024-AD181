@@ -23,61 +23,47 @@ style="width:6.5in;height:2.44722in" />
 3.  During the deployment a new page will be opened to to sign into
     Cloud Foundry.
 
-<img src="images/image3.png"
-style="width:6.5in;height:6.4375in" />
+- Select **SSO Passcode** for the authentication methos
 
-- Enter the correct
-      endpoint: https://api.cf.eu10-004.hana.ondemand.com
+- Click on the link **Open a new browser page to generate your SSO passcode**. A new browser window will open.
 
-- Select Open a new browser page to generate your SSO passcode
+<img src="images/image16.jpg" />
 
-<img src="images/image8.png" style="width:6.5in;height:6.475in" />
+4. Log into your account
 
-6.  Enter academy-platform and select Sign in with alternative identity
-    provider.
+<img src="images/image17.jpg" />
 
-<img src="images/image9.png"
-style="width:6.5in;height:6.39792in" />
+5. Copy the Temporary Authentication Code.
 
-7.  Copy the Temporary Authentication Code.
-
-<img src="images/image10.png"
-style="width:6.5in;height:2.77014in" />
+<img src="images/image18.jpg" />
 
 8.  Paste the Code and Sign In.
 
-<img src="images/image11.png"
-style="width:6.5in;height:6.56181in" />
+<img src="images/image19.jpg" />
 
-9.  Select the Organization and Space as specified here:
+9.  Select your trial Organization and Space, and click **Apply** (your organization will be different than shown here).
 
-    - Organization: sap-build-code-eu10
-
-    - Space: AC_SAPBUILD
-
-    - Select Apply
-
-<img src="images/image12.png"
-style="width:6.5in;height:6.29792in" />
+<img src="images/image20.jpg" />
 
 10. After the successful deployment (May take several minutes) you will
     find the link of the deployed application in the terminal.
 
 - Use Ctrl+click to try it out!
 
-<img src="images/image13.jpeg"
-style="width:6.5in;height:3.62778in" />
+<img src="images/image21.jpg" />
 
 11. Explore the UIs that you have created
 
-<img src="images/image14.jpeg"
-style="width:6.5in;height:3.74375in" />
+<img src="images/image14.jpeg" style="width:6.5in;height:3.74375in" />
 
 12. Select Go in each of the tiles (Customers, Purchases. Redemptions)
     in the Customer Loyal UI to see the generated data.
 
-<img src="images/image15.png"
-style="width:6.5in;height:3.03056in" />
+<img src="images/image15.png" style="width:6.5in;height:3.03056in" />
+
+13. You may also access your UI through the subaccount by selecting **HTML5 Applications** and clicking **customer_loyaltyLaunchpad**.
+
+<img src="images/image22.jpg" />
 
 Congratulations! You have used the generative AI capabilities of Joule
 in SAP Build Code, to create a CAP service for a customer loyalty
