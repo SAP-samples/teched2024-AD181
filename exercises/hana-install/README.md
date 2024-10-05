@@ -26,11 +26,11 @@
 
 - Clilck **Create**
 
+- You may navigate to **Services and Instances** to validate the service creation. It should not take very long.
+
 <img src="images/image2.jpg" />
 
-You may navigate to **Services and Instances** to validate the service creation. It should not take very long.
-
-3. Add the database admin role collection to your user. Note that we are adding the role to your user using the **Default identity provider**.
+4. Add the database admin role collection to your user. Note that we are adding the role to your user using the **Default identity provider**.
 
 - Select **Security > Users**
 
@@ -40,7 +40,7 @@ You may navigate to **Services and Instances** to validate the service creation.
 
 <img src="images/image3.jpg" />
 
-4. Assign the role collection to your user:
+5. Assign the role collection to your user:
 
 - Enter **hana** in the search field
 
