@@ -44,7 +44,7 @@ style="width:6.5in;height:2.35417in" />
 
 <img src="images/image9.jpg" />
 
-8.  Select Install Integration
+8.  In SAP Build Apps, Select Install Integration
 
 <img src="images/image7.png" style="width:6.5in;height:4.11042in" />
 
