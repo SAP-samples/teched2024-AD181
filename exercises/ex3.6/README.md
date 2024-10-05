@@ -27,7 +27,7 @@ style="width:6.5in;height:3.46597in" />
 
 <img src="images/image5.jpg" />
 
-Note down the PIN Code.
+Note down the PIN Code (yours will be different).
 
 <img src="images/image6.png"
 style="width:6.5in;height:4.47014in" />
@@ -39,8 +39,7 @@ style="width:6.5in;height:3.35347in" />
 
 7.  Mobile Previewer will show you the list of projects in your lobby
 
-8.  Launch the Bonus_Barcode_ac117059u01@sapexperienceacademy.com app \>
-    Select New Purchase
+8.  Launch the **Bonus Barcode** app and select **New Purchase**
 
 <img src="images/image8.png"
 style="width:6.5in;height:7.54028in" />
