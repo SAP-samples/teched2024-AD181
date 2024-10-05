@@ -24,7 +24,7 @@ To save time, you will upload the initial Build Apps project from a template, wh
 
 <img src="images/image3.jpg" />
 
-4. Once upload, select the **Bonus Barcode** entry, then click **Import**. Close the import dialog.
+4. Once uploaded, select the **Bonus Barcode** entry, then click **Import**. Close the import dialog.
 
 <img src="images/image4.jpg" />
 
