@@ -2,9 +2,11 @@
 
 ## Prerequisites
 
-**Your customer loyalty application has been using a test SQLite database during testing. To deploy the application, you will need to set up a SAP HANA Cloud database instance in your trial Cloud Foundry Environment. Refer to the steps here:**  [Setup SAP HANA Cloud Trial](../hana-install/)
+**Your customer loyalty application has been using a test SQLite database during testing. To deploy the application, you will need to set up a SAP HANA Cloud database instance in your trial Cloud Foundry Environment.** 
 
-### Service
+**Refer to the steps here:**  [Setup SAP HANA Cloud Trial](../hana-install/)
+
+### Prepare the Service
 
 **Return to your Customer Loyalty project in SAP Build Code 
 (you may need to refresh the browser).**
@@ -47,4 +49,4 @@ style="width:6.5in;height:3.29375in" />
 <img src="images/image4.png"
 style="width:6.5in;height:3.32708in" />
 
-## [Next Lesson ⎘](../ex2.1/)
+## [Next Lesson ⎘](../e
