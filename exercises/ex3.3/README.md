@@ -219,4 +219,6 @@ outputs\["Create record"\].response.rewardPoints + " points!"
 <img src="images/image28.png"
 style="width:6.5in;height:3.95069in" />
 
-## [Next lesson](../ex3.4/)
+36. Save the project
+
+## [Next Lesson ⎘](../ex3.4/)
