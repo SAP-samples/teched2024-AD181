@@ -2,6 +2,14 @@
 
 ## Create Project from Template
 
+To save time, you will upload the initial Build Apps project from a template, which you will extend.
+
+1. Download the **Bonus Barcode.mtar** template
+
+- Click [Bonus Barcode.mtar](files/Bonus%20Barcode.mtar)
+
+- 
+
 Note that there are 2 different approaches to creating the UI.
 
 You can use the first approach, Create Project from Template, which will
