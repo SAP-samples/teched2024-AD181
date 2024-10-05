@@ -49,4 +49,4 @@ style="width:6.5in;height:3.29375in" />
 <img src="images/image4.png"
 style="width:6.5in;height:3.32708in" />
 
-## [Next Lesson ⎘](../e
+## [Next Lesson ⎘](../ex2.1/)

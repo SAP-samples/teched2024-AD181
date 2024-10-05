@@ -2,7 +2,7 @@
 
 ## Preview
 
-In this lesson, we’ll review the customer loyalty program application
+In this lesson, we’ll preview the customer loyalty program application
 you’ve just built.
 
 1.  To preview your application, go to the upper-right corner, and
@@ -23,7 +23,7 @@ style="width:6.5in;height:3.74375in" />
 4.  Select Go and navigate through each of the tiles
     (Customers, Purchases. Redemptions) in the Customer Loyal UI to see
     the generated data. Please note that in the application Preview not
-    all functions may be available.
+    all functions may be available. Note that the A_ProductMaster entity may return no data, or a 404 error code. This should work correctly in the deployed application.
 
 <img src="images/image4.png"
 style="width:6.5in;height:3.03056in" />
