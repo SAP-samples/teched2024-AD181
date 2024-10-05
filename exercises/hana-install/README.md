@@ -114,4 +114,6 @@
 
 <img src="images/image13.jpg" />
 
+10. Note that if you the database is idle for some time, it will be stopped automatically. You can always return to this screen to check the database status and restart it if necessary.
+
 ## [Return to Exercise ⎘](../ex2/)

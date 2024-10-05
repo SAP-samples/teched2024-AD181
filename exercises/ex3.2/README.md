@@ -45,3 +45,22 @@ style="width:6.5in;height:2.35417in" />
 <img src="images/image9.jpg" />
 
 8.  In SAP Build Apps, Select Install Integration
+
+<img src="images/image7.png" style="width:6.5in;height:4.11042in" />
+
+9.  Select Enable Data Entity for all four (4) Data entities listed on
+    the left:
+
+    - Customers
+
+    - Purchases
+
+    - Redemptions
+
+    - A_ProductBasicText
+
+10.  Select Save
+
+<img src="images/image8.png" style="width:6.5in;height:2.26528in" />
+
+## [Next Lesson ⎘](../ex3.3/)
