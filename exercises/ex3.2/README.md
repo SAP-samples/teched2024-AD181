@@ -32,7 +32,7 @@ style="width:6.5in;height:2.35417in" />
 
 <img src="images/image6.jpg" />
 
-7. In case you receive an error message "Request failed with status code 404", your Build Code app may be stopped. If this is the case:
+7. In case you receive an error message "Request failed with status code 404", your Build Code app may be stopped. If you do not have this error, skip this step.
 
 - In the subaccou t, go to **Cloud Foundry > Spaces** and click the **dev** space
 
