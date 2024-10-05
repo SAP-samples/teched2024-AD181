@@ -2,7 +2,7 @@
 
 ## Logic for UI Components
 
-1.  Select Card 1 \> Select to ABC icon under Title.
+1.  Select Card 1 then Select the ABC icon under Title.
 
 <img src="images/image1.png"
 style="width:6.5in;height:5.18403in" />
@@ -19,7 +19,7 @@ style="width:6.5in;height:3.72708in" />
 <img src="images/image3.png"
 style="width:6.5in;height:5.15069in" />
 
-4.  Select Card 1 \> Select to *ABC* icon under Content
+4.  Select Card then Select the *ABC* icon under Content
 
 <img src="images/image4.png"
 style="width:6.5in;height:6.43403in" />
@@ -33,7 +33,7 @@ style="width:6.5in;height:6.43403in" />
 <img src="images/image5.png"
 style="width:6.5in;height:3.83819in" />
 
-7.  Select Card 2 \> Select to ABC icon under Title
+7.  Select Card 2 then Select the ABC icon under Title
 
 <img src="images/image6.png"
 style="width:6.5in;height:5.08403in" />
@@ -47,7 +47,7 @@ data.Customers1\[0\].totalRewardPoints
 <img src="images/image7.png"
 style="width:6.5in;height:3.77292in" />
 
-10. Select Card 3 \> Select the *ABC* icon under Title
+10. Select Card 3 then Select the *ABC* icon under Title
 
 <img src="images/image8.png"
 style="width:6.5in;height:5.90208in" />
@@ -61,7 +61,7 @@ data.Customers1\[0\].totalRedeemedRewardPoints
 <img src="images/image9.png"
 style="width:6.5in;height:4.34722in" />
 
-13. Select Card 4 \> Select the *ABC* icon under Title
+13. Select Card 4 then Select the *ABC* icon under Title
 
 <img src="images/image10.png"
 style="width:6.5in;height:5.93681in" />
@@ -160,4 +160,4 @@ style="width:6.5in;height:3.12986in" />
 <img src="images/image24.png"
 style="width:6.5in;height:3.53125in" />
 
-## [Next lesson](../ex3.6/)
+## [Next Lesson ⎘](../ex3.6/)
