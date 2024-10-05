@@ -25,7 +25,7 @@ style="width:6.5in;height:3.46597in" />
 
 5.  Select the edition **SAP Build Apps US10** and select **Generate code**.
 
-<img src="images/image5.jpg />
+<img src="images/image5.jpg" />
 
 Note down the PIN Code.
 
