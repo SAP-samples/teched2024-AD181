@@ -4,52 +4,37 @@
 
 To save time, you will upload the initial Build Apps project from a template, which you will extend.
 
-1. Download the **Bonus Barcode.mtar** template
+1. Download the **Bonus Barcode.mtar** template. This is a compressed SAP Build Apps export file.
 
 - Click [Bonus Barcode.mtar](files/Bonus%20Barcode.mtar)
 
-- 
+- Click on the **Raw Download** button and save to your computer
 
-Note that there are 2 different approaches to creating the UI.
+<img src="images/image1.jpg" />
 
-You can use the first approach, Create Project from Template, which will
-bypass the nitty gritty work of adding and stylizing components, and
-instead teach you how to use a pre-built existing SAP Build Apps project
-as template to create your project. This is a is much faster way, which
-we suggest to save time.
+2. Import the project from the SAP Build Lobby. 
 
-However, you can also use the second approach instead, Basic steps.
-There you can learn everything about UI components, stylizing them, and
-organizing them on the page.
+- If youu don't have the Lobby open in a tab, you can refer to these instructions to access it: [Accessing your BTP trial account, subaccount, and the SAP Build Lobby](../lobbyaccess/).
 
-In the interest of time, by default we will follow the Create Project
-from Template approach. However, the Basic steps approach is also
-available as an optional exercise at the end of the SAP Build Apps unit.
+- Click on the Import button in the Lobby
 
-1.  Locate (do NOT click) the TA_Bonus_Barcode_Template from the list of
-    projects.
+<img src="images/image2.jpg" />
 
-2.  Use the three dots on the right side and select Save As New Project.
+3. On the Import dialog, click **Browse Files** and select the downloaded **Bonus Barcode.mtar** file (you can also drag and drop the file here).
 
-<img src="images/image1.png"
-style="width:6.5in;height:3.03472in" />
+<img src="images/image3.jpg" />
 
-3.  Provide
+4. Once upload, select the **Bonus Barcode** entry, then click **Import**. Close the import dialog.
 
-    - Name: Bonus_Barcode_AC117059U01
+<img src="images/image4.jpg" />
 
-    - Description: SAP Build Apps UI for the customer loyalty program
-      application
+5. The Build Apps project is imported into the Lobby. 
 
-and finally select Save as New.
+<img src="images/image5.jpg" />
 
-<img src="images/image2.png"
-style="width:6.5in;height:3.21875in" />
+6. Click the project title to open SAP Build Apps.
 
-4.  You have successfully created the UI project from the prepared
-    template.
 
-<img src="images/image3.png"
-style="width:6.5in;height:3.03472in" />
+<img src="images/image3.png" style="width:6.5in;height:3.03472in" />
 
-## [Next lesson](../ex3.2/)
+## [Next Lesson ⎘](../ex3.2/)
