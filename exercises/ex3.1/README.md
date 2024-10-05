@@ -28,13 +28,13 @@ To save time, you will upload the initial Build Apps project from a template, wh
 
 <img src="images/image4.jpg" />
 
-5. The Build Apps project is imported into the Lobby. 
+5. The Bonus Barcode project is imported into the Lobby. 
 
 <img src="images/image5.jpg" />
 
 ## Launch SAP Build Apps
 
-1. Click the project title to open SAP Build Apps.
+1. Click the Bonus Barcode project title to open SAP Build Apps.
 
 <img src="images/image3.png" style="width:6.5in;height:3.03472in" />
 
