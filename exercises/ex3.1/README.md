@@ -32,8 +32,9 @@ To save time, you will upload the initial Build Apps project from a template, wh
 
 <img src="images/image5.jpg" />
 
-6. Click the project title to open SAP Build Apps.
+## Launch SAP Build Apps
 
+1. Click the project title to open SAP Build Apps.
 
 <img src="images/image3.png" style="width:6.5in;height:3.03472in" />
 
