@@ -2,7 +2,7 @@
 
 ## Assign role collections for SAP Build Work Zone, standard edition
 
-To access Work Zone, you'll need to give your users the **Launch Pad Admin** role collection.
+To access Work Zone, you'll need to give your users the **Launchpad Admin** role collection.
 
 1. Navigate back to the trial subaccount cockpit. If you don't have this already open in a browser tab, you can refer to these steps: [Accessing your BTP trial account, subaccount, and the SAP Build Lobby](../lobbyaccess/). If you have had the tap open, you will likely need to refresh your browser and log in again.
 
@@ -20,7 +20,7 @@ To access Work Zone, you'll need to give your users the **Launch Pad Admin** rol
 
 - Search for **Launch** in the search field
 
-- Select the **Launch Pad Admin** role
+- Select the **Launchpad Admin** role
 
 - Click **Assign Role Collection**
 
@@ -30,7 +30,7 @@ To access Work Zone, you'll need to give your users the **Launch Pad Admin** rol
 
 <img src="images/image3.jpg" />
 
-## Acccess Work Zone from the SAP Build Lobby
+## Access Work Zone from the SAP Build Lobby
 
 1. Return to the SAP Build Lobby. If you don't already have this open in another browser tab, you may refer to these steps: [Accessing your BTP trial account, subaccount, and the SAP Build Lobby](../lobbyaccess/)
 
@@ -42,7 +42,7 @@ To access Work Zone, you'll need to give your users the **Launch Pad Admin** rol
 
 <img src="images/image5.jpg" />
 
-4. Select **Configure Sit in Admin Console**. Note that the Manage Workpages and Workspaces option in unavailable. This option is available when you have SAP Build Work Zone, advanced edition enabled.
+4. Select **Configure Site in Admin Console**. Note that the Manage Workpages and Workspaces option in unavailable. This option is available when you have SAP Build Work Zone, advanced edition enabled.
 
 <img src="images/image6.jpg" />
 
@@ -54,7 +54,7 @@ To access Work Zone, you'll need to give your users the **Launch Pad Admin** rol
 
 - Select the **Identity Authentication** tab
 
-- Click the checkbox to confirm that the identity provider trust configuration has been established. This was done automaticaly for you, so you can check this checkbox.
+- Click the checkbox to confirm that the identity provider trust configuration has been established. This was done automatically for you, so you can check this checkbox.
 
 - Click Enable.
 
