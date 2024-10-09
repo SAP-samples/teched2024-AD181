@@ -34,7 +34,7 @@ your app to SAP Build Work Zone, standard edition.
 
 6. (optional) Deploy your solution to SAP Build Work Zone, standard edition.
 
-<img src="images/deom_arch.png" />
+<img src="images/demo_arch.png" />
 
 <!-- TODO add work zone to image -->
 
