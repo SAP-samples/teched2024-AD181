@@ -42,7 +42,7 @@ The new build will show up in your Build History with an indicator of the build 
 
 ## Deploy your app to SAP Build Work Zone, standard edition
 
-1. Once the build is complete, the status will change to **Deployed**. Click on the build name to access the build details.
+1. Once the build is complete, the status will change to **Delivered**. Click on the build name to access the build details.
 
 <img src="images/image8.jpg" />
 
