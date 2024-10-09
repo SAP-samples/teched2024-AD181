@@ -68,6 +68,8 @@ style="width:6.5in;height:2.44722in" />
 > [!IMPORTANT]
 > When apps in a trial account are idle for some time, they may be stopped automatically. If your app seems unresponsive, you may need to restart it. To restart your app, navigate to the the subaccount and select **Cloud Foundry > Spaces**, enter the **dev** space, and check the application **customer_loyalty-srv**. If is is stopped, simply click the start button. Note that you should not restart the customer_loyalty-db-deployer app.
 
+<img src="images/startapp.jpg" />
+
 Congratulations! You have used the generative AI capabilities of Joule
 in SAP Build Code, to create a CAP service for a customer loyalty
 program application.
