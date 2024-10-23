@@ -57,8 +57,7 @@ style="width:6.5in;height:6.07847in" />
 style="width:6.5in;height:3.49028in" />
 
 7.  Once the code is accepted, the update will be reflected on
-    the Storyboard. Please allow up to 2 minutes for Joule to generate
-    the data models and services.
+    the Storyboard.
 
 <img src="images/image6.png"
 style="width:6.5in;height:3.06042in" />
