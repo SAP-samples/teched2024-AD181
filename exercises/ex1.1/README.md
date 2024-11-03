@@ -33,7 +33,7 @@ style="width:6.5in;height:3.66736in" />
 
 | **Input Field** | **Input Value** |
 |----|----|
-| **Project Name** | **Customer_Loyalty_<INITIALS>** |
+| **Project Name** | **Customer_Loyalty_\<INITIALS\>** |
 | **Description** | **Customer Loyalty Program Model and Services** |
 | **Dev Space** | **Select the default** |
 
