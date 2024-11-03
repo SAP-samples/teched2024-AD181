@@ -26,8 +26,8 @@ Some tasks may require subaccount access through the [SAP BTP Cockpit](https://e
 
 You will be given a 4-digit user number at the start of the workshop. This number will be used for your unique user ID and password as follows, where XXX is your assigned number:
 
-**User ID:** Lowcodeuser+0**XXX**@gmail.com
-**Password:** Build**XXX**!
+- **User ID:** Lowcodeuser+0**XXX**@gmail.com
+- **Password:** Build**XXX**!
 
 > [!IMPORTANT]
 > The user name has a 4-digit user number (with a leading 0), and the password has a 3 digit number.
