@@ -1,27 +1,34 @@
 # AD181 | Develop applications and processes with SAP Build and Joule
 
-# If you need help during the workshop, or need more than 3 weeks to complete the workshop, please email buildcode@sap.com
-
 ## Description
 
-This repository contains the material for the SAP TechEd 2024 session called AD181 | Develop applications and processes with SAP Build and Joule.  
+This repository contains the material for the SAP ASUG Tech Connect 2024 session AD181 | Develop applications and processes with SAP Build and Joule.  
 
 ## Overview
 
-Immerse yourself in creating comprehensive intelligent applications using SAP Build solutions in this hands-on session. Gain comprehensive knowledge of full-stack development, process automation, and business site creation with SAP Build. Learn how SAP Cloud Application Programming Model is leveraged in a highly productive development environment with Joule technology.
+In this hands-on tutorial you will work through a set of exercises that highlight the capabilities of **SAP Build Code** with **Joule AI copilot**. Also showcased are the integration capabilities between **SAP Build Code**, **SAP Build Apps**, and **SAP Build Work Zone, standard edition**. You will gain comprehensive knowledge of full-stack development, low-code development, and business site creation with SAP Build. Learn how the SAP Cloud Application Programming Model (CAP) is leveraged in a highly productive development environment with SAP Joule generative AI.
 
 ## Prerequisites
 
-In this hands-on tutorial you will work through a set of exercises that highlight the capabilities of **SAP Build Code** with **Joule AI copilot**. Also showcased are the integration capabilities between **SAP Build Code**, **SAP Build Apps**, and **SAP Build Work Zone, standard edition**.
+The environment is already setup and configured for you. The links are below.
 
-This tutorial puts all of the SAP Build tools together for an end-to-end solution. This requires setting up each of the SAP Build tools in a SAP BTP trial account.
+This workshop should be run in a private (or incognito) browser to avoid login conflicts with other sessions or SAP accounts. It is recommended that you clear your browser cache with **CTRL-SHIFT-DELETE** (PC) or **COMMAND-SHIFT-DELETE** (Mac).
 
-1. You have an SAP BTP Trial account [Get a Free Account on SAP BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html). Note that you will need your user name and password later in this tutorial.
+## Hands-on Environment
+
+Most of the tasks in this workshop will start from the [SAP Build Lobby](https://lcapteched.eu10.build.cloud.sap/lobby).
+
+Some tasks may require subaccount access through the [SAP BTP Cockpit](https://emea.cockpit.btp.cloud.sap/cockpit/?idp=lcap.accounts.ondemand.com#/globalaccount/47ae62c5-c35b-48a4-99b1-eee46b5b62bf/subaccount/f65e327c-d9e9-44cd-8d7b-e4e7ea8db474).
+
+You will be given a 4-digit user number at the start of the workshop. This number will be used for your unique user ID and password as follows, where XXX is your assigned number:
+**User ID:** Lowcodeuser+0XXX@gmail.com
+**Password:** BuildXXX!
+
 > [!IMPORTANT]
-> **You must create your trial account in the US East (VA) - AWS zone (US10).** <br /> &nbsp; <br /> &nbsp;
-> <img src="trial-useast.png" style="width:3in"/>
-2. You have setup SAP Build Code: [Setup SAP Build Code in SAP BTP](https://developers.sap.com/tutorials/build-code-setup.html)
-3. You have setup SAP Build Apps: [Set Up SAP Build Apps on SAP BTP Trial Account](exercises/sba-install/)
+> The user name has a 4-digit user number (with a leading 0), and the password has a 3 digit number.
+
+> [!IMPORTANT]
+> When saving application artifacts, please add your initials to the project name. For example, when creating the SAP Build Code project "Customer_Loyalty" be sure to give the project a unique name such as "Customer_Loyalty_ABC" (using your initials). This will help you quickly identify your project as there are many participants creating projects with the same name.
 
 ## Exercises
 
