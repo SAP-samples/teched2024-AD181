@@ -37,6 +37,8 @@ You will be given a 4-digit user number at the start of the workshop. This numbe
 
 ## Exercises
 
+Begin your exercises here. At the end of each section, there is a link to continue to the next section.
+
 - [Start Here](exercises/ex0/)
 - [SAP Build Code and Joule Copilot](exercises/ex1/)
     - [Create Project](exercises/ex1.1/)
