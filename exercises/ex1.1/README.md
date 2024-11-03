@@ -6,7 +6,7 @@
 central entry point for all SAP Build products.**
 
 1.  **Launch the SAP
-    Build [Lobby](../lobbyaccess/) (if
+    Build [Lobby](https://lcapteched.eu10.build.cloud.sap/lobby) (if
     you are not already in the Lobby)**
 
 2.  **Select the Create button**
@@ -29,15 +29,15 @@ style="width:6.5in;height:3.68264in" />
 <img src="images/image4.jpeg"
 style="width:6.5in;height:3.66736in" />
 
-6.  **On the next screen, enter the following:**
+6.  **On the next screen, enter the following (use your initials to make your project name unique):**
 
 | **Input Field** | **Input Value** |
 |----|----|
-| **Project Name** | **Customer_Loyalty** |
+| **Project Name** | **Customer_Loyalty_<INITIALS>** |
 | **Description** | **Customer Loyalty Program Model and Services** |
 | **Dev Space** | **Select the default** |
 
-<img src="images/image5.jpeg"
+<img src="images/image5.jpg"
 style="width:6.5in;height:7.25347in" />
 
 7.  **Select the Create button.**
