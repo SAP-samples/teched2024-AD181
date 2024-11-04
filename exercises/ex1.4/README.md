@@ -127,9 +127,4 @@ style="width:6.5in;height:3.49028in" />
 <img src="images/image12.png"
 style="width:6.5in;height:3.78264in" />
 
-10. Go back to Storyboard and open Service Center.
-
-<img src="images/image13.png"
-style="width:6.5in;height:2.86597in" />
-
 ## [Next Lesson ⎘](../ex1.5/)

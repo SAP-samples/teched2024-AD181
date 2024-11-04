@@ -10,7 +10,15 @@ We'll connect to the S/4 Product API through the Service Center.
 1.  In Service Center go to SAP System and find the BTP
     destination S4HANA_Joule_Product (S/4 Product).
 
-2.  Select Add to CAP Project
+    - Click the **Service Center** Icon on the tool bar on the left
+
+    - Select **SAP System**
+
+    - Enter **S4HANA** to filter the systems
+
+    - Select **S4HANA_Joule_Product**. The service definition will open.
+
+    - Select **Add to CAP Project**
 
 <img src="images/image1.jpg" style="width:6.5in;height:4.26528in" />
 
@@ -20,7 +28,9 @@ Note: It may take a short time to update!
 
 <img src="images/image2.png" style="width:6.5in;height:2.29097in" />
 
-4.  Go to service.cds tab and Add Entity
+4.  We want to expose this entity through our service interface. 
+
+    - Go to service.cds tab and Add Entity (select a service and Open Graphic Modeler if it is not open)
 
     - You can drop the new entity anywhere
 
