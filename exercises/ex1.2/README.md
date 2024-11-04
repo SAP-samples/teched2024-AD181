@@ -32,7 +32,7 @@ style="width:6.5in;height:3.96389in" />
 Design a customer loyalty program application. Define 3 data entities:
 Customers, Purchases and Redemptions. Each customer must have the
 following fields: name, email, 7-digit customer number, total purchase
-value, total reward points, ‘total redeemed reward points’. All fields
+value, total reward points, and total redeemed reward points. All fields
 for each customer should be integer except name and email that will be
 stored as string. Purchases should include the following fields:
 purchase value, reward points and selected product. All fields in
