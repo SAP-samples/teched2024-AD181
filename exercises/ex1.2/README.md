@@ -68,7 +68,7 @@ style="width:6.5in;height:3.06042in" />
 
     - Select **Opean in Graphical Modeler**
 
-<img src="images/image7.png" />
+<img src="images/image7.jpg" />
 
 
 9.  This opens the graphical service modeler, where you will see the details of the Customers entity. Add the Purchases entity to the service model:
@@ -77,7 +77,7 @@ style="width:6.5in;height:3.06042in" />
 
     - Click on the canvas to place the new entity
 
-<img src="images/image8.png" />
+<img src="images/image8.jpg" />
 
 9.  The properties panel on the right will open. To add the Purchases entity:
 
@@ -85,11 +85,10 @@ style="width:6.5in;height:3.06042in" />
 
     - Click on the checkmark button to save the entity
 
-<img src="images/image9.png" />
+<img src="images/image9.jpg" />
 
 10.  Repeat Step 9 to also add the Redemptions entity. Your completed model should look like this:
 
-<img src="images/image10.png" />
-
+<img src="images/image10.jpg" />
 
 ## [Next Lesson ⎘](../ex1.3/)
