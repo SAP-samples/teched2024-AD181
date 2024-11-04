@@ -91,4 +91,8 @@ style="width:6.5in;height:3.06042in" />
 
 <img src="images/image10.jpg" />
 
+And your storyboard will also show all of your exposed services:
+
+<img src="images/image11.jpg" />
+
 ## [Next Lesson ⎘](../ex1.3/)
