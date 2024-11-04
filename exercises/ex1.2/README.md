@@ -39,7 +39,6 @@ purchase value, reward points and selected product. All fields in
 Purchases must be integer except selected product. Redemptions must have
 1 field in integer: redeemed amount. Each purchase and redemption will
 be associated to a customer. Create 5 rows for each entity.
-Expose all 3 entities in the generated service.
 ```
 
 4.  Select Generate.
@@ -62,5 +61,35 @@ style="width:6.5in;height:3.49028in" />
 
 <img src="images/image6.png"
 style="width:6.5in;height:3.06042in" />
+
+8.  Joule has generated a service interface for you, containing the top-level Customer entity. For our exercise, we also want to expose the Purchases and Redemptions entities.
+
+    - Select the **Customer_Loyalty_\<INITIALS\>** service in the storyboard
+
+    - Select **Opean in Graphical Modeler**
+
+<img src="images/image7.png" />
+
+
+9.  This opens the graphical service modeler, where you will see the details of the Customers entity. Add the Purchases entity to the service model:
+
+    - Select **Add Entity**
+
+    - Click on the canvas to place the new entity
+
+<img src="images/image8.png" />
+
+9.  The properties panel on the right will open. To add the Purchases entity:
+
+    - In the dropdown, select the **Purchases** entity
+
+    - Click on the checkmark button to save the entity
+
+<img src="images/image9.png" />
+
+10.  Repeat Step 9 to also add the Redemptions entity. Your completed model should look like this:
+
+<img src="images/image10.png" />
+
 
 ## [Next Lesson ⎘](../ex1.3/)
