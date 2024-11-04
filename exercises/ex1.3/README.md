@@ -53,7 +53,7 @@ style="width:6.5in;height:4.34792in" />
 style="width:6.5in;height:5.15417in" />
 
 6.  You will notice that one of the customer numbers has been updated
-    to 1200547.
+    to **1200547**. This will be used later for testing.
 
 <img src="images/image7.png"
 style="width:6.5in;height:2.11667in" />
