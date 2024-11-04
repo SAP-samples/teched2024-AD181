@@ -62,7 +62,7 @@ style="width:6.5in;height:3.49028in" />
 <img src="images/image6.png"
 style="width:6.5in;height:3.06042in" />
 
-8.  Joule has generated a service interface for you, containing the top-level Customer entity. For our exercise, we also want to expose the Purchases and Redemptions entities.
+8.  Joule has generated a service interface for you, containing the top-level Customers entity. For our exercise, we also want to expose the Purchases and Redemptions entities.
 
     - Select the **Customer_Loyalty_\<INITIALS\>** service in the storyboard
 
