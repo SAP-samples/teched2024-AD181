@@ -4,15 +4,18 @@
 
 To save time, you will upload the initial Build Apps project from a template, which you will extend.
 
-1. Download the **Bonus Barcode.mtar** template. This is a compressed SAP Build Apps export file.
+1. Download the **Bonus Barcode.zip.gpg** template. This is a compressed SAP Build Apps export file.
 
-- Click <a href="files/Bonus%20Barcode.mtar" target="_blank">Bonus Barcode.mtar</a>
+- Click <a href="files/Bonus%20Barcode.zip.gpg" target="_blank">Bonus Barcode.zip.gpg</a>
 
 - Click on the **Raw Download** button and save to your computer
 
 <img src="images/image1.jpg" />
 
 2. Import the project from the <a href="https://lcapteched.eu10.build.cloud.sap/lobby" target="_blank">SAP Build Lobby</a>. 
+
+TODO WE NEED UNIQUE PROJECT NAMES, SO RATHER THAN THE LOBBY IMPORT, WE WILL USE THE REPLACE FEATURE IN BUILD APPS. I WILL UPDATE THIS SECTION TUESDAY.
+CREATE A BUILD APPS PROJECT WITH THE NAME "Bonus Barcode XXX" (xxx is initials) AND USE THE "... > REPLACE" TO IMPORT THE LINKED ZIP.GPG FILE.
 
 - Click on the Import button in the Lobby
 
