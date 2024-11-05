@@ -6,15 +6,13 @@ To save time, you will upload the initial Build Apps project from a template, wh
 
 1. Download the **Bonus Barcode.mtar** template. This is a compressed SAP Build Apps export file.
 
-- Click [Bonus Barcode.mtar](files/Bonus%20Barcode.mtar)
+- Click <a href="files/Bonus%20Barcode.mtar" target="_blank">Bonus Barcode.mtar</a>
 
 - Click on the **Raw Download** button and save to your computer
 
 <img src="images/image1.jpg" />
 
-2. Import the project from the SAP Build Lobby. 
-
-- If youu don't have the Lobby open in a tab, you can refer to these instructions to access it: [Accessing your BTP trial account, subaccount, and the SAP Build Lobby](../lobbyaccess/).
+2. Import the project from the <a href="https://lcapteched.eu10.build.cloud.sap/lobby" target="_blank">SAP Build Lobby</a>. 
 
 - Click on the Import button in the Lobby
 
