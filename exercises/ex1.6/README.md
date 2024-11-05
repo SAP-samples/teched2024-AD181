@@ -14,15 +14,15 @@ style="width:6.5in;height:2.55278in" />
 2.  We will start with the user interface for the data
     entity *Purchases*. Enter the following values:
 
-    - Display name: Purchases
+    - Display name: **Purchases**
 
-    - Description: Manage Purchases
+    - Description: **Manage Purchases**
 
-    - For the Data Source, select customer_loyalty_XXXSrv from the dropdown (XXX is the initials used in your project name)
+    - For the Data Source, select **customer_loyalty_XXXSrv** from the dropdown (XXX is the initials used in your project name)
 
     - Select **Next**
 
-<img src="images/image2.jpeg" />
+<img src="images/image2.jpg" />
 
 3.  Select Template-Based Responsive Application as the UI Application
     type, then select Next.
