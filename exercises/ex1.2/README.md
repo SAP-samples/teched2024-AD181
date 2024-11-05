@@ -38,7 +38,7 @@ stored as string. Purchases should include the following fields:
 purchase value, reward points and selected product. All fields in
 Purchases must be integer except selected product. Redemptions must have
 1 field in integer: redeemed amount. Each purchase and redemption will
-be associated to a customer.
+be associated to a customer. Use associations instead of compositions.
 ```
 
 4.  Select Generate.
