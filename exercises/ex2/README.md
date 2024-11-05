@@ -27,8 +27,7 @@ Editing” mode for all three entity sets:**
 
 2.  **Select Settings =\> Disable Draft Editing.**
 
-    - **If you do not see *Settings* may have to move the *Show
-      Details* content to the left**
+    - **If you do not see *Settings* tab you may have to resize the *Details* panel to the left**
 
 <img src="images/image2.png"
 style="width:6.5in;height:5.93403in" />
