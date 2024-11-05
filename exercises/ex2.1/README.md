@@ -8,7 +8,7 @@ destinations, enabling ODATA services to be utilised by other tools such
 as SAP Build Apps.
 
 1.  For the deployment go to Task Explorer and select the Play icon
-    (Run) next to Enable Discovery and Deploy option.
+    (Run) next to the **Enable Discovery and Deploy** option.
 
     - Please be patient as this may take a few minutes.
 
@@ -61,12 +61,12 @@ style="width:6.5in;height:2.44722in" />
 
 <img src="images/image15.png" style="width:6.5in;height:3.03056in" />
 
-13. You may also access your UI through the subaccount by selecting **HTML5 Applications** and clicking **customer_loyaltyLaunchpad**.
+13. You may also access your UI through the subaccount by selecting **HTML5 Applications** and clicking **customer_loyalty_xxxLaunchpad**.
 
 <img src="images/image22.jpg" />
 
 > [!IMPORTANT]
-> When apps in a trial account are idle for some time, they may be stopped automatically. If your app seems unresponsive, you may need to restart it. To restart your app, navigate to the the subaccount and select **Cloud Foundry > Spaces**, enter the **dev** space, and check the application **customer_loyalty-srv**. If is is stopped, simply click the start button. Note that you should not restart the customer_loyalty-db-deployer app.
+> When apps in a trial account are idle for some time, they may be stopped automatically. If your app seems unresponsive, you may need to restart it. To restart your app, navigate to the the subaccount and select **Cloud Foundry > Spaces**, enter the **dev** space, and check the application **customer_loyalty_xxx-srv**. If is is stopped, simply click the start button. Note that you should not restart the customer_loyalty_xxx-db-deployer app.
 
 <img src="images/startapp.jpg" />
 

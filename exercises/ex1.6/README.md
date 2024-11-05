@@ -18,7 +18,7 @@ style="width:6.5in;height:2.55278in" />
 
     - Description: **Manage Purchases**
 
-    - For the Data Source, select **customer_loyalty_XXXSrv** from the dropdown (XXX is the initials used in your project name)
+    - For the Data Source, select **customer_loyalty_xxxSrv** from the dropdown (XXX is the initials used in your project name)
 
     - Select **Next**
 
@@ -52,7 +52,7 @@ Customer:
 
 - Description: Manage Customers
 
-- Data Source: customer_loyalty_XXXSrv
+- Data Source: customer_loyalty_xxxSrv
 
 - UI Application type: Template-Based Responsive Application
 
@@ -70,7 +70,7 @@ Redemptions:
 
 - Description: Manage Redemptions
 
-- Data Source: customer_loyalty_XXXSrv
+- Data Source: customer_loyalty_xxxSrv
 
 - UI Application type: Template-Based Responsive Application
 

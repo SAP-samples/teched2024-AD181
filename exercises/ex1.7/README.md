@@ -11,7 +11,7 @@ you’ve just built.
 <img src="images/image1.png"
 style="width:6.5in;height:3.39444in" />
 
-2.  Select Run ***customer_loyalty_XXXSrv***
+2.  Select Run ***customer_loyalty_xxxSrv***
 
 <img src="images/image2.jpg" />
 

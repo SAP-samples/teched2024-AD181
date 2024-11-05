@@ -28,7 +28,7 @@ style="width:6.5in;height:5.02917in" />
 <img src="images/image5.png"
 style="width:6.5in;height:2.35417in" />
 
-6.  Select your Build Code project named **customer_loyalty-customer_loyaltySrv**
+6.  Select your Build Code project named **customer_loyalty_xxx-customer_loyalty_xxxSrv**
 
 <img src="images/image6.jpg" />
 

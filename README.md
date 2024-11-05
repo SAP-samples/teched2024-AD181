@@ -33,7 +33,7 @@ You will be given a 4-digit user number at the start of the workshop. This numbe
 > The user name has a 4-digit user number (with a leading 0), and the password has a 3 digit number.
 
 > [!IMPORTANT]
-> When saving application artifacts, please add your initials to the project name. For example, when creating the SAP Build Code project "Customer_Loyalty" be sure to give the project a unique name such as "Customer_Loyalty_ABC" (using your initials). This will help you quickly identify your project as there are many participants creating projects with the same name.
+> When saving application artifacts, please add your initials (lower case) to the project name. For example, when creating the SAP Build Code project "customer_loyalty" be sure to give the project a unique name such as "customer_loyalty_abc" (using your initials). This will help you quickly identify your project as there are many participants creating projects with the same name.
 
 ## Exercises
 
