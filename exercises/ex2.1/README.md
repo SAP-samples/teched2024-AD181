@@ -15,12 +15,7 @@ as SAP Build Apps.
 <img src="images/image1.png"
 style="width:6.34722in;height:6.65278in" />
 
-2.  Check if the task has launched in the terminal
-
-<img src="images/image2.png"
-style="width:6.5in;height:2.44722in" />
-
-3.  During the deployment a new page will be opened to to sign into
+2.  During the deployment a new page will be opened to to sign into
     Cloud Foundry.
 
 - Select **SSO Passcode** for the authentication methos
@@ -29,39 +24,39 @@ style="width:6.5in;height:2.44722in" />
 
 <img src="images/image16.jpg" />
 
-4. Log into your account
+3. Log into your account
 
 <img src="images/image17.jpg" />
 
-5. Copy the Temporary Authentication Code.
+4. Copy the Temporary Authentication Code.
 
 <img src="images/image18.jpg" />
 
-8.  Paste the Code and Sign In.
+5.  Paste the Code and Sign In.
 
 <img src="images/image19.jpg" />
 
-9.  Select your trial Organization and Space, and click **Apply** (your organization will be different than shown here).
+6.  Select your trial Organization and Space, and click **Apply** (your organization will be different than shown here).
 
 <img src="images/image20.jpg" />
 
-10. After the successful deployment (May take several minutes) you will
+7. After the successful deployment (May take several minutes) you will
     find the link of the deployed application in the terminal.
 
 - Use Ctrl+click to try it out!
 
 <img src="images/image21.jpg" />
 
-11. Explore the UIs that you have created
+8. Explore the UIs that you have created
 
 <img src="images/image14.jpeg" style="width:6.5in;height:3.74375in" />
 
-12. Select Go in each of the tiles (Customers, Purchases. Redemptions)
+9. Select Go in each of the tiles (Customers, Purchases. Redemptions)
     in the Customer Loyal UI to see the generated data.
 
 <img src="images/image15.png" style="width:6.5in;height:3.03056in" />
 
-13. You may also access your UI through the subaccount by selecting **HTML5 Applications** and clicking **customer_loyalty_xxxLaunchpad**.
+10. You may also access your UI through the subaccount by selecting **HTML5 Applications** and clicking **customer_loyalty_xxxLaunchpad**.
 
 <img src="images/image22.jpg" />
 
