@@ -52,13 +52,15 @@ Customer:
 
 - Description: Manage Customers
 
-- Data Source: customer_loyaltySrv
+- Data Source: customer_loyalty_XXXSrv
 
 - UI Application type: Template-Based Responsive Application
 
 - UI Application Template: List Report Page
 
 - Main Entity: Customers
+
+- Navigation Entity: None
 
 Wait for the UI to create and the Page Map to open. Close the Page Map.
 
@@ -68,7 +70,7 @@ Redemptions:
 
 - Description: Manage Redemptions
 
-- Data Source: customer_loyaltySrv
+- Data Source: customer_loyalty_XXXSrv
 
 - UI Application type: Template-Based Responsive Application
 
