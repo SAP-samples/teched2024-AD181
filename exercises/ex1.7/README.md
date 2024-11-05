@@ -28,6 +28,10 @@ style="width:6.5in;height:3.74375in" />
 <img src="images/image4.png"
 style="width:6.5in;height:3.03056in" />
 
+5. To stop the debugger, return to the storyboard and selec the **Stop** button on the preview control (located at the top of the editor window). You may also close the Debug Console if you prefer.
+
+<img src="images/image5.jpg" />
+
 Congratulations! You have successfully built and previewed a CAP
 application using SAP Build Code powered by Joule copilot!
 
