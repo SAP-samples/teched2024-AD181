@@ -18,37 +18,31 @@ style="width:6.5in;height:2.55278in" />
 
     - Description: Manage Purchases
 
+    - For the Data Source, select customer_loyalty_XXXSrv from the dropdown (XXX is the initials used in your project name)
+
     - Select **Next**
 
-4.  Select Template-Based Responsive Application as the UI Application
-    type.
+<img src="images/image2.jpeg" />
+
+3.  Select Template-Based Responsive Application as the UI Application
+    type, then select Next.
 
 <img src="images/image4.jpeg"
 style="width:6.5in;height:4.20347in" />
 
-5.  Select Next
-
-<img src="images/image3.png"
-style="width:1.45833in;height:0.68056in" alt="Next" />
-
-6.  Select List Report Page
+4.  Select List Report Page, then select Next.
 
 <img src="images/image5.jpeg"
 style="width:6.5in;height:2.90764in" />
 
-7.  Select Next
+5.  Select the Purchases entity
 
-<img src="images/image3.png"
-style="width:1.45833in;height:0.68056in" alt="Next" />
-
-8.  Select the Purchases entity
-
-9.  Select Finish
+6.  Select Finish
 
 <img src="images/image6.jpeg"
 style="width:6.5in;height:4.85417in" />
 
-10. Close the Page Map if needed.
+7. Close the Page Map if needed.
 
 Repeat the same steps with the *Customer* and *Redemption* entity.
 
@@ -88,7 +82,7 @@ been generated.
 <img src="images/image7.png"
 style="width:3.26389in;height:0.68056in" />
 
-Modify the UI for the Purchases
+## Modify the UI for the Purchases
 
 Now we are going to modify the UI for the purchases. We will include the
 products from S/4HANA as value help in the purchases and hide some
