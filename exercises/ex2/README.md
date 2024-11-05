@@ -17,11 +17,13 @@ Editing” mode for all three entity sets:**
 
 - **Redemptions**
 
-1.  **Go to service.cds tab (or open the services graphical modeler if it isn't already open). Select the Redemptions entity and
-    the Redemptions details will appear on the right hand side.**
+1.  **Go to service.cds tab (or open the services graphical modeler if it isn't already open).**
 
-<img src="images/image1.png"
-style="width:6.5in;height:4.02708in" />
+- **Select the Redemptions entity** 
+
+- **If the redemption details panel isn't already open, select the Show Details tool button**
+
+<img src="images/image1.jpg" />
 
 2.  **Select Settings =\> Disable Draft Editing.**
 
