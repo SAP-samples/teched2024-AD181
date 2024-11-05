@@ -62,37 +62,4 @@ style="width:6.5in;height:3.49028in" />
 <img src="images/image6.png"
 style="width:6.5in;height:3.06042in" />
 
-8.  Joule has generated a service interface for you, containing the top-level Customers entity. For our exercise, we also want to expose the Purchases and Redemptions entities.
-
-    - Select the **Customer_Loyalty_\<INITIALS\>** service in the storyboard
-
-    - Select **Opean in Graphical Modeler**
-
-<img src="images/image7.jpg" />
-
-
-9.  This opens the graphical service modeler, where you will see the details of the Customers entity. Add the Purchases entity to the service model:
-
-    - Select **Add Entity**
-
-    - Click on the canvas to place the new entity
-
-<img src="images/image8.jpg" />
-
-9.  The properties panel on the right will open. To add the Purchases entity:
-
-    - In the dropdown, select the **Purchases** entity
-
-    - Click on the checkmark button to save the entity
-
-<img src="images/image9.jpg" />
-
-10.  Repeat Step 9 to also add the Redemptions entity. Your completed model should look like this:
-
-<img src="images/image10.jpg" />
-
-And your storyboard will also show all of your exposed services:
-
-<img src="images/image11.jpg" />
-
 ## [Next Lesson ⎘](../ex1.3/)
