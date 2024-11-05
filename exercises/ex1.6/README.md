@@ -42,9 +42,9 @@ style="width:6.5in;height:2.90764in" />
 <img src="images/image6.jpeg"
 style="width:6.5in;height:4.85417in" />
 
-7. Close the Page Map if needed.
+7. Wait for the UI to create and the Page Map to open. You can close the Page Map.
 
-Repeat the same steps with the *Customer* and *Redemption* entity.
+Repeat the same steps with the **Customer** and **Redemption** entity.
 
 Customer:
 
@@ -60,7 +60,7 @@ Customer:
 
 - Main Entity: Customers
 
-Wait for the UI to create.
+Wait for the UI to create and the Page Map to open. Close the Page Map.
 
 Redemptions:
 
@@ -76,8 +76,7 @@ Redemptions:
 
 - Main Entity: Redemptions
 
-Wait for the UI to create. You shoud see a message, that the files have
-been generated.
+Wait for the UI to create and the Page Map to open. Close the Page Map.
 
 <img src="images/image7.png"
 style="width:3.26389in;height:0.68056in" />
