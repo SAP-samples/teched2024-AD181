@@ -18,9 +18,9 @@
 
 5. Log in using your assigned user ID and password
 
-- User name: lowcodeuser+0xxx@gmail.com
+- User name: **lowcodeuser+0xxx@gmail.com**
 
-- Password: Buildxxx!#
+- Password: **Buildxxx!#**
 
 - Click **Continue**
 
@@ -34,7 +34,11 @@
 
 <img src="images/image8.jpg" />
 
-2. Enter a name for your site. Here we've called in **Customer Zone**
+2. Enter a name for your site:
+
+- Name your site **Customer Zone XXX** (XXX is your initials)
+
+- Click **Create**
 
 <img src="images/image9.jpg" />
 
@@ -70,15 +74,17 @@ There are a few steps to register your new app, to make it available Work Zone.
 
 4. All of the apps you have developed in this exercise are included here. Let's enable all of them.
 
-- Select each app -- **Customers**, **Redeptions**, **Purchases**, and **Bonus Barcode**
+- Enter your initials in the search field, and click the search icon
+
+- Select each app -- **Customers**, **Redeptions**, **Purchases**, and **Bonus Barcode XXX**
 
 - Click **Add**
 
-- Click the Content Manager cookie crumb to return to go back
+- Click the Content Manager cookie crumb to go back
 
 <img src="images/image14.jpg" />
 
-5. Now we can include these in an application group (if you'd like you can create a separate group for the Bonus Barcode app).
+5. Now we can include these in an application group.
 
 - Select the Content Manager icon
 
@@ -88,7 +94,9 @@ There are a few steps to register your new app, to make it available Work Zone.
 
 6. Configure the group:
 
-- Give the group a name, such as **Customer Zone**
+- Give the group a name, such as **Customer Zone XXX** (XXX is your initials)
+
+- Enter your initials in the search field and click the search icon
 
 - Click the toggle to enable each of your apps
 
@@ -112,6 +120,10 @@ There are a few steps to register your new app, to make it available Work Zone.
 
 - Enable each of your applications
 
+- Search for your intitials
+
+- Enable each of your apps
+
 - Click **Save**
 
 <img src="images/image18.jpg" />
@@ -123,6 +135,8 @@ You're almost done! You can now access your new business site and launch your ap
 1. Launch your site
 
 - Click the Site Directory Icon
+
+- Enter your initials in the search bar
 
 - Click the launch icon on the Customer Zone site tile.
 
