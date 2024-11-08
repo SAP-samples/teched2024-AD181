@@ -12,31 +12,23 @@
 
 <img src="images/image5.jpg" />
 
-4. Select **Configure Site in Admin Console**. Note that the Manage Workpages and Workspaces option in unavailable. This option is available when you have SAP Build Work Zone, advanced edition enabled.
+4. Select **Configure Site in Admin Console**. Note that the Manage Workpages and Workspaces option in unavailable. This option is available when SAP Build Work Zone, advanced edition is enabled. We will be using Work Zone, standard edition.
 
 <img src="images/image6.jpg" />
 
-## Configure Work Zone for the custom identity provider
+5. Log in using your assigned user ID and password
 
-1. You may recall that after deploying the customer loyalty app to Work Zone, the app link would result in Access Denied. We will configure Work Zone to use the custom identity provider to resolve this.
+- User name: lowcodeuser+0xxx@gmail.com
 
-- Select the Site Settings icon
+- Password: Buildxxx!#
 
-- Select the **Identity Authentication** tab
+- Click **Continue**
 
-- Click the checkbox to confirm that the identity provider trust configuration has been established. This was done automatically for you, so you can check this checkbox.
-
-- Click Enable.
-
-- Log out of Work Zone (profile icon on the upper right) and log back in.
-
-<img src="images/image7.jpg" />
+<img src="images/image6a.jpg" />
 
 ## Create a new business site for your app
 
-1. We'll create a new business site for this app and any other customer apps that are built in the future.
-
-- Select the Site Directory icon
+1. Create a new business site for this app.
 
 - Click **Create Site**
 
