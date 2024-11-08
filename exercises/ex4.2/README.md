@@ -1,38 +1,8 @@
 # Configure a business site and access your app
 
-## Assign role collections for SAP Build Work Zone, standard edition
-
-To access Work Zone, you'll need to give your users the **Launchpad Admin** role collection.
-
-1. Navigate back to the trial subaccount cockpit. If you don't have this already open in a browser tab, you can refer to these steps: [Accessing your BTP trial account, subaccount, and the SAP Build Lobby](../lobbyaccess/). If you have had the tap open, you will likely need to refresh your browser and log in again.
-
-2. Add the role collection to the custom identity
-
-- Select **Security > Users**
-
-- Select your user name (with the custom identity provider)
-
-- Select **Assign Role Collection** from the drop down menu under the **Role Collections** section of your user details
-
-<img src="images/image1.jpg" />
-
-3. Assign the role collection
-
-- Search for **Launch** in the search field
-
-- Select the **Launchpad Admin** role
-
-- Click **Assign Role Collection**
-
-<img src="images/image2.jpg" />
-
-3. Repeat steps 1 and 2 for your user with the default identity provider
-
-<img src="images/image3.jpg" />
-
 ## Access Work Zone from the SAP Build Lobby
 
-1. Return to the SAP Build Lobby. If you don't already have this open in another browser tab, you may refer to these steps: [Accessing your BTP trial account, subaccount, and the SAP Build Lobby](../lobbyaccess/)
+1. Return to the [SAP Build Lobby](https://lcapteched.eu10.build.cloud.sap/lobby)
 
 2. From the Lobby, select **Create** from the drop-down menu.
 
