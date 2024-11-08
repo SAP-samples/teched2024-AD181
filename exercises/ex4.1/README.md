@@ -52,15 +52,27 @@ The new build will show up in your Build History with an indicator of the build 
 
 3. This will open the Deploy to Work Zone dialog.
 
-- Select the cf-eu10-004 API endpoint.
+- Select the **cf-eu10-004** API endpoint.
 
 - After selecting the endpoint, you will need to select **Login with BTP**. This will launch a separate window to authenticate using your BTP credentials.
 
 <img src="images/image10.jpg" />
 
+4. Log into BTP
+
+- Enter **lcap-platform** in the origin key field
+
+- Select **Sign in with alternative identity provider**
+
+<img src="images/image10a.jpg" />
+
+5. Authorize the Build Apps dashboard client
+
+<img src="images/image10b.jpg" />
+
 4. After logging in:
 
-- Use the **Organization** dropdown to select your trial account organization (it will have trial in the name).
+- Use the **Organization** dropdown to select **TechEdLCAP_lcapteched** 
 
 - Use the **Space** dropdown to select the **dev** space.
 
@@ -68,7 +80,7 @@ The new build will show up in your Build History with an indicator of the build 
 
 <img src="images/image11.jpg" />
 
-5. The Deploy to Work Zone dialog will show you the build progress. Once it finishes, it will indicate that your app is live at the specified endpoint URL. If you try to access this URL in your web browser now, you will get an Access Denied error. We will address this in the next section. You can close this dialog and return to the SAP Build Lobby.
+5. The Deploy to Work Zone dialog will show you the build progress. Once it finishes, it will indicate that your app is live at the specified endpoint URL.  You can close this dialog.
 
 <img src="images/image12.jpg" />
 
