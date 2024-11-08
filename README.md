@@ -21,10 +21,8 @@ It is recommended that you clear your browser cache with **CTRL-SHIFT-DELETE** (
 ## Hands-on Environment
 
 Most of the tasks in this workshop will start from the [SAP Build Lobby](https://lcapteched.eu10.build.cloud.sap/lobby).
-
-Some tasks may require subaccount access through the [SAP BTP Cockpit](https://emea.cockpit.btp.cloud.sap/cockpit/?idp=lcap.accounts.ondemand.com#/globalaccount/47ae62c5-c35b-48a4-99b1-eee46b5b62bf/subaccount/f65e327c-d9e9-44cd-8d7b-e4e7ea8db474).
-
-You will be given a 4-digit user number at the start of the workshop. This number will be used for your unique user ID and password as follows, where XXX is your assigned number:
+s
+You will be given a 3-digit user number at the start of the workshop. This number will be used for your unique user ID and password as follows, where XXX is your assigned number:
 
 - **User ID:** Lowcodeuser+0**XXX**@gmail.com
 - **Password:** Build**XXX**!#

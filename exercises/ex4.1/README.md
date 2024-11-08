@@ -52,7 +52,7 @@ The new build will show up in your Build History with an indicator of the build 
 
 3. This will open the Deploy to Work Zone dialog.
 
-- Select the API endpoint of your trial account in the dropdown. It should be on CF-US10-xxx.
+- Select the cf-eu10-004 API endpoint.
 
 - After selecting the endpoint, you will need to select **Login with BTP**. This will launch a separate window to authenticate using your BTP credentials.
 
