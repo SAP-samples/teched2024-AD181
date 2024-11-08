@@ -15,55 +15,80 @@ as SAP Build Apps.
 <img src="images/image1.png"
 style="width:6.34722in;height:6.65278in" />
 
-2.  During the deployment a new page will be opened to to sign into
-    Cloud Foundry.
+2. You will be prompted for several build configuration values:
 
-- Select **SSO Passcode** for the authentication methos
+- For UI5 Version, select the latest (currently **1.130.0**)
 
-- Click on the link **Open a new browser page to generate your SSO passcode**. A new browser window will open.
+<img src="images/image3.jpg" />
+
+- For UI5 Theme, select **sap_fiori_3**
+
+<img src="images/image4.jpg" />
+
+- For Vendor Dependency, select **No**.
+
+<img src="images/image5.jpg" />
+
+- For Build Code Service Plan, select **No**.
+
+<img src="images/image6.jpg" />
+
+3. Building the app will take a minute or two. After building the app, a new tab will be opened to to sign into Cloud Foundry for deployment.
+
+- Select **SSO Passcode** for the authentication methods
+
+- Click on the link **Open a new browser page to generate your SSO passcode**. A new browser tab will open.
 
 <img src="images/image16.jpg" />
 
-3. Log into your account
+4. If you are prompted to login using sap.ids, select **Sign in to another account** (you may not be prompted for this).
 
 <img src="images/image17.jpg" />
 
-4. Copy the Temporary Authentication Code.
+4. Log into the cloud foundry environment:
+
+- For the origin key of the alternate identity provider, enter **lcap-platform**
+
+- Select **Sign in with alternate identity provider**
+
+<img src="images/image2.jpg" />
+
+5. Copy the Temporary Authentication Code.
 
 <img src="images/image18.jpg" />
 
-5.  Paste the Code and Sign In.
+6.  Paste the code and Sign In.
 
 <img src="images/image19.jpg" />
 
-6.  Select your trial Organization and Space, and click **Apply** (your organization will be different than shown here).
+7. Set the Cloud Foundry deployment target:
+
+- For Cloud Foundry Organization, select **TechEdLCAP_lcapteched**
+
+- For Cloud Foundry Space, select **dev**
+
+- Click **Apply**
 
 <img src="images/image20.jpg" />
 
-7. After the successful deployment (May take several minutes) you will
-    find the link of the deployed application in the terminal.
+8. After the successful deployment (may take several minutes) the terminal will indicate that the Build/Deploy task has completed and that your service is discoverable.
 
-- Use Ctrl+click to try it out!
+<img src="images/image7.jpg" />
+
+9. Near the bottom of the terminal, there will be a link **Project Overview URL**. This link will allow you to access the deployed application UI and services.
+
+- Use **Ctrl+Click** (PC) or **Cmd+Click** (Mac) to try it out!
 
 <img src="images/image21.jpg" />
 
-8. Explore the UIs that you have created
+10. Explore the UIs that you have created
 
 <img src="images/image14.jpeg" style="width:6.5in;height:3.74375in" />
 
-9. Select Go in each of the tiles (Customers, Purchases. Redemptions)
+11. Select Go in each of the tiles (Customers, Purchases. Redemptions)
     in the Customer Loyal UI to see the generated data.
 
 <img src="images/image15.png" style="width:6.5in;height:3.03056in" />
-
-10. You may also access your UI through the subaccount by selecting **HTML5 Applications** and clicking **customer_loyalty_xxxLaunchpad**.
-
-<img src="images/image22.jpg" />
-
-> [!IMPORTANT]
-> When apps in a trial account are idle for some time, they may be stopped automatically. If your app seems unresponsive, you may need to restart it. To restart your app, navigate to the the subaccount and select **Cloud Foundry > Spaces**, enter the **dev** space, and check the application **customer_loyalty_xxx-srv**. If is is stopped, simply click the start button. Note that you should not restart the customer_loyalty_xxx-db-deployer app.
-
-<img src="images/startapp.jpg" />
 
 Congratulations! You have used the generative AI capabilities of Joule
 in SAP Build Code, to create a CAP service for a customer loyalty
