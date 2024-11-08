@@ -83,7 +83,7 @@ Redeem some points from the same customer and experience the flow
 <img src="images/image13.png"
 style="width:4.51389in;height:6.05556in" />
 
-15. Go to SAP Build Apps Design Time \> DATA tab \> Customers
+15. Go to SAP Build Apps Design Time \> Integrations tab \> Customers
 
 <img src="images/image14.png"
 style="width:6.5in;height:4.4125in" />
