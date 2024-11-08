@@ -38,9 +38,9 @@ To save time, you will upload the initial Build Apps project from a template, wh
 
 <img src="images/image6.jpg" />
 
-7. SAP Build Apps will open, with a new application. You will replace this with the template application you downloaded:
+7. SAP Build Apps will open, with a new app. You will replace this with the template app you downloaded:
 
-- Click the extra menu (3 vertical drops, upper right corner of the screen).
+- Click the dot menu (3 vertical dots, upper right corner of the screen).
 
 - Click Replace
 
