@@ -28,7 +28,7 @@ style="width:6.5in;height:5.02917in" />
 <img src="images/image5.png"
 style="width:6.5in;height:2.35417in" />
 
-6.  Select your Build Code project named **customer_loyalty_xxx-customer_loyalty_xxxSrv**
+6.  Select your Build Code project named **customer_loyalty_xxx-customer_loyalty_xxxSrv**. You can search for your initials to filter out other projects.
 
 <img src="images/image6.jpg" />
 
@@ -49,6 +49,6 @@ style="width:6.5in;height:2.35417in" />
 
 9.  Select Save
 
-<img src="images/image9.png" />
+<img src="images/image9.jpg" />
 
 ## [Next Lesson ⎘](../ex3.3/)
