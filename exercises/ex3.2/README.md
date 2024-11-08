@@ -32,23 +32,11 @@ style="width:6.5in;height:2.35417in" />
 
 <img src="images/image6.jpg" />
 
-7. In case you receive an error message "Request failed with status code 404", your Build Code app may be stopped. If you do not have this error, skip this step.
-
-- In the subaccou t, go to **Cloud Foundry > Spaces** and click the **dev** space
-
-- Select **Applications**
-
-- If **customer-loyaltySrv** is stopped, click the **Start** button on the right.
-
-- Repeat Step 6 above
-
-<img src="images/image9.jpg" />
-
-8.  In SAP Build Apps, Select Install Integration
+7.  In SAP Build Apps, Select Install Integration
 
 <img src="images/image7.png" style="width:6.5in;height:4.11042in" />
 
-9.  Select Enable Data Entity for all four (4) Data entities listed on
+8.  Select Enable Data Entity for all four (4) Data entities listed on
     the left:
 
     - Customers
@@ -59,8 +47,8 @@ style="width:6.5in;height:2.35417in" />
 
     - A_ProductBasicText
 
-10.  Select Save
+9.  Select Save
 
-<img src="images/image8.png" style="width:6.5in;height:2.26528in" />
+<img src="images/image9.png" />
 
 ## [Next Lesson ⎘](../ex3.3/)
