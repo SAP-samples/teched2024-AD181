@@ -19,27 +19,30 @@ style="width:6.5in;height:3.90764in" />
 style="width:6.5in;height:3.46597in" />
 
 4.  Launch SAP Build Apps Preview in your mobile device then
-    select Other Login options.
+    select SAP Build Apps.
 
-<img src="images/image4.png" style="width:4.53403in;height:9in" />
+<img src="images/image4.jpg" style="width:4.53403in;height:9in" />
 
-5.  Select the edition **SAP Build Apps US10** and select **Generate code**.
-
-<img src="images/image5.jpg" />
-
-Note down the PIN Code (yours will be different).
+5.  Note down the PIN Code (yours will be different).
 
 <img src="images/image6.png"
 style="width:6.5in;height:4.47014in" />
 
-6.  Use the PIN Code here and Confirm pin.
+6.  Enter the PIN Code here and Confirm pin.
 
 <img src="images/image7.png"
 style="width:6.5in;height:3.35347in" />
 
 7.  Mobile Previewer will show you the list of projects in your lobby
 
-8.  Launch the **Bonus Barcode** app and select **New Purchase**
+- You can search for your initials to find your app
+
+- Select **Open** to launch your app
+
+<img src="images/image5.jpg"
+style="width:6.5in;height:3.35347in" />
+
+-  select **New Purchase**
 
 <img src="images/image8.png"
 style="width:6.5in;height:7.54028in" />
