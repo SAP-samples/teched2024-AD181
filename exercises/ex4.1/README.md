@@ -2,7 +2,7 @@
 
 ## Build your app for deployment
 
-1.  You should already have your app open in SAP Build Apps from the previous exercise. If not, you can return to the Lobby to open the Bonus Barcode app. If you need assistance with this, refer to [Accessing your BTP trial account, subaccount, and the SAP Build Lobby](../lobbyaccess/)
+1.  You should already have your app open in SAP Build Apps from the previous exercise. If not, you can return to the [SAP Build Lobby](https://lcapteched.eu10.build.cloud.sap/lobby) to open the Bonus Barcode app.
 
 2. Select the Launch tab
 
