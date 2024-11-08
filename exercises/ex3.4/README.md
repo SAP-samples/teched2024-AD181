@@ -91,7 +91,7 @@ style="width:6.5in;height:4.02153in" />
 
     - Navigate back
 
-13. Join the componants and Save
+13. Join the components and Save
 
 <img src="images/image11.png"
 style="width:6.5in;height:3.59583in" />

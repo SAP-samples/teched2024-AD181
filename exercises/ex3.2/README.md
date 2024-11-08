@@ -18,10 +18,9 @@ style="width:6.5in;height:2.66667in" />
 <img src="images/image3.png"
 style="width:6.5in;height:4.03125in" />
 
-4.  Go to the DATA tab \> Add Integration
+4.  Go to Integrations \> Add Integration
 
-<img src="images/image4.png"
-style="width:6.5in;height:5.02917in" />
+<img src="images/image4.jpg" />
 
 5.  Select BTP Destinations
 
@@ -32,7 +31,7 @@ style="width:6.5in;height:2.35417in" />
 
 <img src="images/image6.jpg" />
 
-7.  In SAP Build Apps, Select Install Integration
+7.  Select Install Integration
 
 <img src="images/image7.png" style="width:6.5in;height:4.11042in" />
 
