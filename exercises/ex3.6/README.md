@@ -39,8 +39,7 @@ style="width:6.5in;height:3.35347in" />
 
 - Select **Open** to launch your app
 
-<img src="images/image5.jpg"
-style="width:6.5in;height:3.35347in" />
+<img src="images/image5.jpg" style="width:4.53403in;height:9in" />
 
 -  select **New Purchase**
 
