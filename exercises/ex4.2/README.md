@@ -118,8 +118,6 @@ There are a few steps to register your new app, to make it available Work Zone.
 
 <img src="images/image17.jpg" />
 
-- Enable each of your applications
-
 - Search for your intitials
 
 - Enable each of your apps
