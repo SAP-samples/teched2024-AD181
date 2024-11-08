@@ -4,39 +4,58 @@
 
 To save time, you will upload the initial Build Apps project from a template, which you will extend.
 
-1. Download the **Bonus Barcode.zip.gpg** template. This is a compressed SAP Build Apps export file.
+1. Click this link to download the **Bonus Barcode.zip.gpg** template. This is a compressed SAP Build Apps export file.
 
-- Click <a href="files/Bonus%20Barcode.zip.gpg" target="_blank">Bonus Barcode.zip.gpg</a>
+- Click [Bonus Barcode.zip.gpg](files/Bonus%20Barcode.zip.gpg)
 
 - Click on the **Raw Download** button and save to your computer
 
 <img src="images/image1.jpg" />
 
-2. Import the project from the <a href="https://lcapteched.eu10.build.cloud.sap/lobby" target="_blank">SAP Build Lobby</a>. 
-
-TODO WE NEED UNIQUE PROJECT NAMES, SO RATHER THAN THE LOBBY IMPORT, WE WILL USE THE REPLACE FEATURE IN BUILD APPS. I WILL UPDATE THIS SECTION TUESDAY.
-CREATE A BUILD APPS PROJECT WITH THE NAME "Bonus Barcode XXX" (xxx is initials) AND USE THE "... > REPLACE" TO IMPORT THE LINKED ZIP.GPG FILE.
-
-- Click on the Import button in the Lobby
+2. Return to the [SAP Build Lobby](https://lcapteched.eu10.build.cloud.sap/lobby). In the lobby, select the **Create** dropdown, the select **Create**.
 
 <img src="images/image2.jpg" />
 
-3. On the Import dialog, click **Browse Files** and select the downloaded **Bonus Barcode.mtar** file (you can also drag and drop the file here).
+3. Select **Build an Application**
 
 <img src="images/image3.jpg" />
 
-4. Once uploaded, select the **Bonus Barcode** entry, then click **Import**. Close the import dialog.
+4. Select **SAP Build Apps**
 
 <img src="images/image4.jpg" />
 
-5. The Bonus Barcode project is imported into the Lobby. 
+5. Select **Web & Mobile Application**
 
 <img src="images/image5.jpg" />
 
-## Launch SAP Build Apps
+6. Enter the project information:
 
-1. Click the Bonus Barcode project title to open SAP Build Apps.
+- Project Name: **Bonus Barcode XXX** (XXX are your initials)
 
-<img src="images/image3.png" style="width:6.5in;height:3.03472in" />
+- Description: **Customer Loyalty UI Application**
+
+- Click **Create**
+
+<img src="images/image6.jpg" />
+
+7. SAP Build Apps will open, with a new application. You will replace this with the template application you downloaded:
+
+- Click the extra menu (3 vertical drops, upper right corner of the screen).
+
+- Click Replace
+
+<img src="images/image7.jpg" />
+
+8. In the Replace App dialog:
+
+- Click **Select File** and select the **Bonus Barcode.zip.gpg** file you downloaded in Step 1.
+
+- Click **Replace**
+
+<img src="images/image8.jpg" />
+
+9. The application template is now loaded. You may wish to select the Mobile form factor, if not already selected (optional).
+
+<img src="images/image9.jpg" />
 
 ## [Next Lesson ⎘](../ex3.2/)
