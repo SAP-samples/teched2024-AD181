@@ -4,9 +4,9 @@
 
 To save time, you will upload the initial Build Apps project from a template, which you will extend.
 
-1. Click this link to download the **Bonus Barcode.zip.gpg** template. This is a compressed SAP Build Apps export file.
+1. Download the application template to your computer:
 
-- Click [Bonus Barcode.zip.gpg](files/Bonus%20Barcode.zip.gpg)
+- Open this link in a new tab: [Bonus Barcode.zip.gpg](files/Bonus%20Barcode.zip.gpg)
 
 - Click on the **Raw Download** button and save to your computer
 
