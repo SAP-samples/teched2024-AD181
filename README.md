@@ -16,12 +16,14 @@ The environment is already setup and configured for you. The links are below.
 
 This workshop should be run in a private (or incognito) browser to avoid login conflicts with other sessions or SAP accounts. 
 
+The Google Chrome browser is recommended.
+
 It is recommended that you clear your browser cache with **CTRL-SHIFT-DELETE** (PC) or **COMMAND-SHIFT-DELETE** (Mac).
 
 ## Hands-on Environment
 
 Most of the tasks in this workshop will start from the [SAP Build Lobby](https://lcapteched.eu10.build.cloud.sap/lobby).
-s
+
 You will be given a 3-digit user number at the start of the workshop. This number will be used for your unique user ID and password as follows, where XXX is your assigned number:
 
 - **User ID:** Lowcodeuser+0**XXX**@gmail.com
