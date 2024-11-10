@@ -18,7 +18,7 @@ style="width:6.5in;height:2.55278in" />
 
     - Description: **Manage Purchases**
 
-    - For the Data Source, select **customer_loyalty_xxxSrv** from the dropdown (XXX is the initials used in your project name)
+    - For the Data Source, select **customer_loyalty_xxxSrv** from the dropdown (xxx is your user number)
 
     - Select **Next**
 

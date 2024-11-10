@@ -18,12 +18,6 @@
 
 5. Log in using your assigned user ID and password
 
-- User name: **lowcodeuser+0xxx@gmail.com**
-
-- Password: **Buildxxx!#**
-
-- Click **Continue**
-
 <img src="images/image6a.jpg" />
 
 ## Create a new business site for your app
@@ -36,7 +30,7 @@
 
 2. Enter a name for your site:
 
-- Name your site **Customer Zone XXX** (XXX is your initials)
+- Name your site **Customer Zone XXX** (XXX is your user number)
 
 - Click **Create**
 
@@ -74,7 +68,7 @@ There are a few steps to register your new app, to make it available Work Zone.
 
 4. All of the apps you have developed in this exercise are included here. Let's enable all of them.
 
-- Enter your initials in the search field, and click the search icon
+- Enter your user number in the search field, and click the search icon
 
 - Select each app -- **Customers**, **Redeptions**, **Purchases**, and **Bonus Barcode XXX**
 
@@ -94,9 +88,9 @@ There are a few steps to register your new app, to make it available Work Zone.
 
 6. Configure the group:
 
-- Give the group a name, such as **Customer Zone XXX** (XXX is your initials)
+- Give the group a name, such as **Customer Zone XXX** (XXX is your user number)
 
-- Enter your initials in the search field and click the search icon
+- Enter your user number in the search field and click the search icon
 
 - Click the toggle to enable each of your apps
 
@@ -134,7 +128,7 @@ You're almost done! You can now access your new business site and launch your ap
 
 - Click the Site Directory Icon
 
-- Enter your initials in the search bar
+- Enter your user number in the search bar
 
 - Click the launch icon on the Customer Zone site tile.
 

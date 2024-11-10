@@ -35,7 +35,7 @@ style="width:6.5in;height:3.35347in" />
 
 7.  Mobile Previewer will show you the list of projects in your lobby
 
-- You can search for your initials to find your app
+- You can search for your user number to find your app
 
 - Select **Open** to launch your app
 

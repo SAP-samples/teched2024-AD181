@@ -27,7 +27,7 @@ style="width:6.5in;height:4.03125in" />
 <img src="images/image5.png"
 style="width:6.5in;height:2.35417in" />
 
-6.  Select your Build Code project named **customer_loyalty_xxx-customer_loyalty_xxxSrv**. You can search for your initials to filter out other projects.
+6.  Select your Build Code project named **customer_loyalty_xxx-customer_loyalty_xxxSrv**. You can search for your user number to filter out other projects.
 
 <img src="images/image6.jpg" />
 

@@ -29,14 +29,14 @@ style="width:6.5in;height:3.68264in" />
 <img src="images/image4.jpeg"
 style="width:6.5in;height:3.66736in" />
 
-6.  **On the next screen, enter the following (use your initials (lower case) to make your project name unique):**
+6.  **On the next screen, enter the following (use your user number to make your project name unique):**
 
 > [!IMPORTANT]
-> The project name must be all lower case (including your initials)
+> The project name must be all lower case (including your user number)
 
 | **Input Field** | **Input Value** |
 |----|----|
-| **Project Name** | **customer_loyalty_\<initials\>** |
+| **Project Name** | **customer_loyalty_\<XXX\>** |
 | **Description** | **Customer Loyalty Program Model and Services** |
 | **Dev Space** | **Select the default** |
 
@@ -55,7 +55,7 @@ style="width:6.5in;height:7.25347in" />
 
 <img src="images/image10.jpg" />
 
-9.  **Select the customer_loyalty_\<initials\> project.**
+9.  **Select the customer_loyalty_XXX project.**
 
 <img src="images/image6.jpg"
 style="width:6.5in;height:0.79097in" />

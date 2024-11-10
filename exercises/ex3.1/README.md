@@ -30,7 +30,7 @@ To save time, you will upload the initial Build Apps project from a template, wh
 
 6. Enter the project information:
 
-- Project Name: **Bonus Barcode XXX** (XXX are your initials)
+- Project Name: **Bonus Barcode XXX** (XXX is your user number)
 
 - Description: **Customer Loyalty UI Application**
 
