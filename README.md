@@ -24,10 +24,7 @@ It is recommended that you clear your browser cache with **CTRL-SHIFT-DELETE** (
 
 Most of the tasks in this workshop will start from the [SAP Build Lobby](https://lcapteched.eu10.build.cloud.sap/lobby).
 
-You will be given a 3-digit user number at the start of the workshop. This number will be used for your unique user ID and password as follows, where XXX is your assigned number:
-
-- **User ID:** Lowcodeuser+0**XXX**@gmail.com
-- **Password:** Build**XXX**!#
+You will be given a 3-digit user number at the start of the workshop. This number will be used for your unique user ID and password as follows, where XXX is your assigned number. How exactly this will come up in a user and pw, the instructors will tell you.
 
 > [!IMPORTANT]
 > The user name has a 4-digit user number (with a leading 0), and the password has a 3 digit number.
