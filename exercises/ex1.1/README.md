@@ -30,11 +30,11 @@ style="width:6.5in;height:3.66736in" />
 6.  **On the next screen, enter the following (use your user number to make your project name unique):**
 
 > [!IMPORTANT]
-> The project name must be all lower case (including your user number)
+> The project name must be all lower case
 
 | **Input Field** | **Input Value** |
 |----|----|
-| **Project Name** | **customer_loyalty_XXX** |
+| **Project Name** | **customer_loyalty_xxx** |
 | **Description** | **Customer Loyalty Program Model and Services** |
 | **Dev Space** | **Select the default** |
 
