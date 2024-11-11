@@ -18,8 +18,6 @@
 
 5. Log in using your assigned user ID and password
 
-<img src="images/image6a.jpg" />
-
 ## Create a new business site for your app
 
 1. Create a new business site for this app.
