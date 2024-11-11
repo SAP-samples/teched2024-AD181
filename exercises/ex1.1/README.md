@@ -67,8 +67,7 @@ style="width:6.5in;height:0.79097in" />
 <img src="images/image7.png"
 style="width:6.5in;height:3.09444in" />
 
-12. **SAP Build Code will be opened, based on SAP Business Application
-    Studio - in the background.**
+12. **SAP Build Code will be opened, with an empty storyboard for your project artifacts.**
 
 - **Please allow some time for SAP Build Code to open!**
 
