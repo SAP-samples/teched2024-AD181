@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the material for the SAP ASUG Tech Connect 2024 session AD181 | Develop applications and processes with SAP Build and Joule.  
+This repository contains the material for the SAP TechEd 2024 session [AD181 | Develop applications and processes with SAP Build and Joule](https://www.sap.com/events/teched/virtual/flow/sap/te24/catalog/page/catalog/session/1722394882270001djar).  
 
 ## Overview
 
