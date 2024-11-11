@@ -9,8 +9,7 @@ central entry point for all SAP Build products.**
 
 2.  **Select the Create button**
 
-<img src="images/image1.jpeg"
-style="width:6.5in;height:2.64375in" />
+<img src="images/image1.jpg" />
 
 3.  **Select Build an Application**
 
