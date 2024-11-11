@@ -7,7 +7,7 @@ central entry point for all SAP Build products.**
 
 1.  **Launch the [SAP Build Lobby](https://lcapteched.eu10.build.cloud.sap/lobby) in a new browser tab**
 
-2.  **Select the Create button**
+2.  **Select Create from the Create dropdown**
 
 <img src="images/image1.jpg" />
 
