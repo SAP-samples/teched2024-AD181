@@ -136,7 +136,7 @@ style="width:6.5in;height:5.82222in" />
 
 29. Paste the formula below \> Save
 
-data.Customers1\[0\].totalRedeemedPoints
+data.Customers1\[0\].totalRedeemedRewardPoints
 
 <img src="images/image21.png"
 style="width:6.5in;height:2.98264in" />
