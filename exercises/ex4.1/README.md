@@ -38,7 +38,7 @@
 
 <img src="images/image7.jpg" />
 
-The new build will show up in your Build History with an indicator of the build progress.
+The new build will show up in your Build History with an indicator of the build progress. It may take up to 10 or 15 minutes to build.
 
 ## Deploy your app to SAP Build Work Zone, standard edition
 
