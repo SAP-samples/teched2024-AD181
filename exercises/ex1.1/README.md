@@ -35,7 +35,7 @@ style="width:6.5in;height:3.66736in" />
 |----|----|
 | **Project Name** | **customer_loyalty_xxx** |
 | **Description** | **Customer Loyalty Program Model and Services** |
-| **Dev Space** | **Select the default** |
+| **Dev Space** | Create a **New** Dev Space with the name **fullstack1** |
 
 <img src="images/image5.jpg"
 style="width:6.5in;height:7.25347in" />
