@@ -104,36 +104,36 @@ MAP(data.A_ProductBasicText1, {label:item.Product, value:item.Product})
 <img src="images/image12.png"
 style="width:6.5in;height:3.94931in" />
 
-16. Select the X under Selected value
+18. Select the X under Selected value
 
-17. Go to Data and Variables \> Page variable \> SelectedProduct \>
+19. Go to Data and Variables \> Page variable \> SelectedProduct \>
     select Save
 
 <img src="images/image13.png"
 style="width:6.5in;height:3.89722in" />
 
-18. Select Input field and Rename label: Purchase Value
+20. Select Input field and Rename label: Purchase Value
 
-19. Select the ‘X’ icon under Value
+21. Select the ‘X’ icon under Value
 
 <img src="images/image14.png"
 style="width:6.5in;height:4.17778in" />
 
-20. Go to Data and Variables \> Page variable \> PurchaseValue
+22. Go to Data and Variables \> Page variable \> PurchaseValue
 
-21. Select Save
+23. Select Save
 
 <img src="images/image15.png"
 style="width:6.5in;height:3.78403in" />
 
-22. Select Button \> Rename label: Add Points!
+24. Select Button \> Rename label: Add Points!
 
-23. Open Logic Canvas
+25. Open Logic Canvas
 
 <img src="images/image16.png"
 style="width:6.5in;height:4.44514in" />
 
-23. Drag & Drop the logic components below to create the logic
+26. Make sure the Add Points button is selected. Drag & Drop the logic components below to create the logic
     and join each component.
 
     - Create record
@@ -142,76 +142,76 @@ style="width:6.5in;height:4.44514in" />
 
     - Navigate back
 
-24. Select Save
+27. Select Save
 
 <img src="images/image17.png"
 style="width:6.5in;height:2.86458in" />
 
-25. Select Create record function \> Select the data
+28. Select Create record function \> Select the data
     entity Purchases and Save.
 
-26. Select the Custom Object
+29. Select the Custom Object
 
 <img src="images/image18.png"
 style="width:6.5in;height:3.85486in" />
 
-27. Select the ABC icon under ID \> Formula
+30. Select the ABC icon under ID \> Formula
 
-28. Select the Formula bar.
+31. Select the Formula bar.
 
 <img src="images/image19.png"
 style="width:6.5in;height:5.34444in" />
 
-28. Enter the following formula and Save:
+32. Enter the following formula and Save:
 
 GENERATE_UUID()
 
 <img src="images/image20.png"
 style="width:6.5in;height:4.23125in" />
 
-28. Select the \[X\] icon under customer_ID \> Formula \> Create formula
+33. Select the \[X\] icon under customer_ID \> Formula \> Create formula
 
 <img src="images/image21.png"
 style="width:6.5in;height:5.34792in" />
 
-29. Enter the following formula and Save:
+34. Enter the following formula and Save:
 
 data.Customers1\[0\].ID
 
 <img src="images/image22.png"
 style="width:6.5in;height:4.2375in" />
 
-30. Select the \[X\] icon under purchaseValue \> Formula \> Create
+35. Select the \[X\] icon under purchaseValue \> Formula \> Create
     formula
 
 <img src="images/image23.png"
 style="width:6.5in;height:5.35972in" />
 
-31. Enter the following formula and Save:
+36. Enter the following formula and Save:
 
 INTEGER(pageVars.PurchaseValue)
 
 <img src="images/image24.png"
 style="width:6.5in;height:4.24583in" />
 
-32. Select the \[X\] icon under selectedProduct \> Data and Variables \>
+37. Select the \[X\] icon under selectedProduct \> Data and Variables \>
     Page Variable \> SelectedProduct
 
 <img src="images/image25.png"
 style="width:6.5in;height:5.35486in" />
 
-33. Save the window
+38. Save the window
 
 <img src="images/image26.png"
 style="width:6.5in;height:5.34931in" />
 
-34. Select *Alert* component \> Select the *ABC* icon under Dialog title
+39. Select *Alert* component \> Select the *ABC* icon under Dialog title
     \> Formula
 
 <img src="images/image27.png"
 style="width:6.5in;height:3.5375in" />
 
-35. *Copy* and *Paste* (as plain text) the formula below \> Save
+40. *Copy* and *Paste* (as plain text) the formula below \> Save
 
 data.Customers1\[0\].name + " has successfully earned " +
 outputs\["Create record"\].response.rewardPoints + " points!"
@@ -219,6 +219,6 @@ outputs\["Create record"\].response.rewardPoints + " points!"
 <img src="images/image28.png"
 style="width:6.5in;height:3.95069in" />
 
-36. Save the project
+41. Save the project
 
 ## [Next Lesson ⎘](../ex3.4/)
