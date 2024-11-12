@@ -36,7 +36,7 @@ style="width:6.5in;height:2.35417in" />
 <img src="images/image7.png" style="width:6.5in;height:4.11042in" />
 
 8.  Select Enable Data Entity for all four (4) Data entities listed on
-    the left:
+    the left by selecting each entity and clicking **Enable Data Entity**.
 
     - Customers
 
@@ -45,6 +45,8 @@ style="width:6.5in;height:2.35417in" />
     - Redemptions
 
     - A_ProductBasicText
+
+<img src="images/image8.jpg" />
 
 9.  Select Save
 
