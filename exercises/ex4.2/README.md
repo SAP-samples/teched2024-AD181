@@ -48,7 +48,7 @@ There are a few steps to register your new app, to make it available Work Zone.
 
 - Click the Refresh icon
 
-- Wait a few moments for the status to change to **Updated**
+- Wait a few moments for the status to change to **Updated**. There is occasionally an error message after updating-- you may ignore this.
 
 <img src="images/image11.jpg" />
 
