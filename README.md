@@ -20,11 +20,9 @@ The Google Chrome browser is recommended.
 
 It is recommended that you clear your browser cache with **CTRL-SHIFT-DELETE** (PC) or **COMMAND-SHIFT-DELETE** (Mac).
 
-## Hands-on Environment
+## Logging In
 
-Most of the tasks in this workshop will start from the [SAP Build Lobby](https://lcapteched.eu10.build.cloud.sap/lobby).
-
-You will be given a 3-digit user number at the start of the workshop. This number will be used for your unique user ID and password. Your instructor will share the format for the user ID and password.
+You will be given a 3-digit user number at the start of the workshop. This number will be used for your unique user ID and password. Your instructor will share the format for the user ID and password. Note: you do not need to log into Github.
 
 > [!IMPORTANT]
 > The user name has a 4-digit user number (with a leading 0), and the password has a 3 digit number.
