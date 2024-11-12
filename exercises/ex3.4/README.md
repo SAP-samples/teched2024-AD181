@@ -82,7 +82,7 @@ style="width:6.5in;height:3.96458in" />
 <img src="images/image10.png"
 style="width:6.5in;height:4.02153in" />
 
-18. Drag & Drop the logic components to create the logic flow shown
+18. Make sure the Redeem Points button is selected, and drag & drop the logic components to create the logic flow shown
     below.
 
     - Create record
