@@ -5,7 +5,9 @@
 **The starting point for this tutorial is the lobby of SAP Build, the
 central entry point for all SAP Build products.**
 
-1.  **Launch the [SAP Build Lobby](https://lcapteched.eu10.build.cloud.sap/lobby) in a new browser tab. When asked to log in, enter your user name and password provided by the instructor.**
+1.  **Launch the [SAP Build Lobby](https://lcapteched.eu10.build.cloud.sap/lobby) in a new browser tab.**
+
+- **When asked to log in, enter your user name and password provided by the instructor.**
 
 2.  **Select Create from the Create dropdown**
 
