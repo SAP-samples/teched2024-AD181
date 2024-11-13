@@ -38,7 +38,7 @@ Begin your exercises here. At the end of each section, there is a link to contin
 - [SAP Build Code and Joule Copilot](exercises/ex1/)
     - [Create Project](exercises/ex1.1/)
     - [Create Data Entities with Joule](exercises/ex1.2/)
-    - [Enhance your Data with Joule](exercises/ex1.3/)
+    - [Create Sample Data with Joule](exercises/ex1.3/)
     - [Create Backend Logic with Joule](exercises/ex1.4/)
     - [Add External Data Resource](exercises/ex1.5/)
     - [UI Application](exercises/ex1.6/)
