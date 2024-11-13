@@ -56,18 +56,18 @@ In a previous step, you generated sample data using Joule. This data is automati
 
 - Note the 3 data files.
 
-<img src="images/image5.png" />
+<img src="images/image5.jpg" />
 
 2. Drag and drop the data folder from the **test** folder to the **db** folder
 
 - To do this, click on **data**, and drag it to **db**
 
-<img src="images/image6.png" />
+<img src="images/image6.jpg" />
 
 3. Note the files are now located in the **db/data** folder. 
 
 - You do not want the test folder in the db folder. The path should be **db/data**. If you have made a mistake, just adjust the files until you achieve this structure (ask your instructor if you need assistance).
 
-<img src="images/image7.png" />
+<img src="images/image7.jpg" />
 
 ## [Next Lesson ⎘](../ex2.1/)
