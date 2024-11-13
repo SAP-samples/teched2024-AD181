@@ -1,6 +1,6 @@
 # Prepare & Deploy CAP Application
 
-### Prepare the Service
+## Prepare the Service
 
 **Return to your Customer Loyalty project in SAP Build Code 
 (you may need to refresh the browser).**
@@ -43,5 +43,31 @@ style="width:6.5in;height:3.29375in" />
 
 <img src="images/image4.png"
 style="width:6.5in;height:3.32708in" />
+
+## Prepare the Data
+
+In a previous step, you generated sample data using Joule. This data is automatically loaded into the database when you are testing. However, sample data is not loaded into a deployed HANA database. For our workshop, we would like our sample data loaded into the database. To do this, we will move the data CSV files from the **test** directory to the **db** directory. Data stored in this directory is loaded as **Initial Data** (which is generally used for data that is part of your production model).
+
+1. Open the **Explorer** in SAP Build Code
+
+- Click the Explore icon on the tool bar
+
+- Click to expand the test directory. 
+
+- Note the 3 data files.
+
+<img src="images/image5.png" />
+
+2. Drag and drop the data folder from the **test** folder to the **db** folder
+
+- To do this, click on **data**, and drag it to **db**
+
+<img src="images/image6.png" />
+
+3. Note the files are now located in the **db/data** folder. 
+
+- You do not want the test folder in the db folder. The path should be **db/data**. If you have made a mistake, just adjust the files until you achieve this structure (ask your instructor if you need assistance).
+
+<img src="images/image7.png" />
 
 ## [Next Lesson ⎘](../ex2.1/)
