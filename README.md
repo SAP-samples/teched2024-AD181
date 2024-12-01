@@ -24,6 +24,8 @@ It is recommended that you clear your browser cache with **CTRL-SHIFT-DELETE** (
 
 You will be given a 3-digit user number at the start of the workshop. This number will be used for your unique user ID and password. Your instructor will share the format for the user ID and password. Note: you do not need to log into Github.
 
+<https://lcapteched.eu10.build.cloud.sap/lobby>
+
 > [!IMPORTANT]
 > The user name has a 4-digit user number (with a leading 0), and the password has a 3 digit number.
 
