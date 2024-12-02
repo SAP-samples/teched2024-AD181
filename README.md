@@ -12,7 +12,22 @@ You will gain comprehensive knowledge of full-stack development, low-code develo
 
 ## Prerequisites
 
-The environment is already setup and configured for you. The links are below.
+There are different prerequisites, depending on whether you're going to run through this content during an organized event (such as one of the TechEd on Tour events), or at home.
+
+### At home
+
+This tutorial puts all of the SAP Build tools together for an end-to-end solution. This requires setting up each of the SAP Build tools in a SAP BTP trial account.
+
+1. You have an SAP BTP Trial account [Get a Free Account on SAP BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html). Note that you will need your user name and password later in this tutorial.
+> [!IMPORTANT]
+> **You must create your trial account in the US East (VA) - AWS zone (US10).** <br /> &nbsp; <br /> &nbsp;
+> <img src="trial-useast.png" style="width:3in"/>
+2. You have setup SAP Build Code: [Setup SAP Build Code in SAP BTP](https://developers.sap.com/tutorials/build-code-setup.html)
+3. You have setup SAP Build Apps: [Set Up SAP Build Apps on SAP BTP Trial Account](exercises/sba-install/)
+
+### Organized event
+
+For running through this content in a workshop at an organized event, there is an environment already set up and configured for you. There are instructions on how to log on, and requirements for how you should name your project.
 
 This workshop should be run in a private (or incognito) browser to avoid login conflicts with other sessions or SAP accounts. 
 
@@ -20,7 +35,7 @@ The Google Chrome browser is recommended.
 
 It is recommended that you clear your browser cache with **CTRL-SHIFT-DELETE** (PC) or **COMMAND-SHIFT-DELETE** (Mac).
 
-## Logging In
+#### Logging on
 
 You will be given a 3-digit user number at the start of the workshop. This number will be used for your unique user ID and password. Your instructor will share the format for the user ID and password. Note: you do not need to log into Github.
 
