@@ -1,7 +1,5 @@
 # Tutorial Overview
 
-# If you need help during the workshop, or need more than 3 weeks to complete the workshop, please email buildcode@sap.com
-
 In this hands-on tutorial you will work through a set of exercises that highlight the capabilities of SAP Build Code with Joule AI copilot. Also showcased are the integration capabilities between SAP Build Code, SAP S/4HANA Cloud and SAP’s Low-code/No-code development environment, SAP Build Apps. You will also (optionally) deploy your app into SAP Build Work Zone, standard edition with a SAP HANA Cloud database instance.
 
 <img src="images/image1.png" style="width:6.5in;height:3.63125in" />
