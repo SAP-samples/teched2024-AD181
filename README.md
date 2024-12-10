@@ -1,7 +1,5 @@
 # AD181 | Develop applications and processes with SAP Build and Joule
 
-# If you need help during the workshop, or need more than 3 weeks to complete the workshop, please email buildcode@sap.com
-
 ## Description
 
 This repository contains the material for the SAP TechEd 2024 session called AD181 | Develop applications and processes with SAP Build and Joule.  
