@@ -1,3 +1,6 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2024-AD181)](https://api.reuse.software/info/github.com/SAP-samples/teched2024-AD181)
+
+
 # AD181 | Develop applications and processes with SAP Build and Joule
 
 ## Description
